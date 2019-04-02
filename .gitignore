@@ -1,0 +1,16 @@
+*.suo
+*.cache
+*.exe
+*.pdb
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.txt
+*.sln
+*.config
+*.targets
+*.csproj
+*.dll
+*.json
+*.props
