@@ -1,0 +1,10 @@
+﻿div {
+    display: inline;
+    width: 30%;
+    margin-left: 0%;
+    vertical-align: top;
+}
+
+span {
+    font-weight: bold;
+}
