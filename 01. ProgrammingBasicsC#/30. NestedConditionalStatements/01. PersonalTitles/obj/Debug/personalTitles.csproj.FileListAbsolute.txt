@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\obj\Debug\personalTitles.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\obj\Debug\personalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\bin\Debug\personalTitles.exe.config
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\bin\Debug\personalTitles.exe
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\bin\Debug\personalTitles.pdb
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\obj\Debug\personalTitles.exe
+C:\Users\Veso\Desktop\C#\sat27\personalTitles\obj\Debug\personalTitles.pdb

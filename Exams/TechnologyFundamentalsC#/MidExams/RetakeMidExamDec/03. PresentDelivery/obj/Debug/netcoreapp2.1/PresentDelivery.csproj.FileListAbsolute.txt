@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\bin\Debug\netcoreapp2.1\PresentDelivery.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\PresentDelivery\obj\Debug\netcoreapp2.1\PresentDelivery.pdb

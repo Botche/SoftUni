@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\bin\Debug\pointInRectangle.exe.config
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\bin\Debug\pointInRectangle.exe
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\bin\Debug\pointInRectangle.pdb
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\obj\Debug\pointInRectangle.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\obj\Debug\pointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\obj\Debug\pointInRectangle.exe
+C:\Users\Veso\Desktop\C#\sat27\pointInRectangle\obj\Debug\pointInRectangle.pdb

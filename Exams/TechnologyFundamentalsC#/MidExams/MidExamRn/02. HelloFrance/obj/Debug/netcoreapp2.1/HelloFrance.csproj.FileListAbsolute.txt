@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.pdb

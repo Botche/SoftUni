@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\bin\Debug\netcoreapp2.1\Message.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\bin\Debug\netcoreapp2.1\Message.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\bin\Debug\netcoreapp2.1\Message.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\bin\Debug\netcoreapp2.1\Message.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\bin\Debug\netcoreapp2.1\Message.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\obj\Debug\netcoreapp2.1\Message.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\obj\Debug\netcoreapp2.1\Message.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\obj\Debug\netcoreapp2.1\Message.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\obj\Debug\netcoreapp2.1\Message.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\Message\obj\Debug\netcoreapp2.1\Message.pdb

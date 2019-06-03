@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\bin\Debug\netcoreapp2.1\sighOfIntegerNumbers.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\bin\Debug\netcoreapp2.1\sighOfIntegerNumbers.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\bin\Debug\netcoreapp2.1\sighOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\bin\Debug\netcoreapp2.1\sighOfIntegerNumbers.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\bin\Debug\netcoreapp2.1\sighOfIntegerNumbers.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\sighOfIntegerNumbers\obj\Debug\netcoreapp2.1\sighOfIntegerNumbers.pdb

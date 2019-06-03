@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\bin\Debug\netcoreapp2.1\smallestOfThreeNumbers.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\bin\Debug\netcoreapp2.1\smallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\bin\Debug\netcoreapp2.1\smallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\bin\Debug\netcoreapp2.1\smallestOfThreeNumbers.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\bin\Debug\netcoreapp2.1\smallestOfThreeNumbers.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\smallestOfThreeNumbers\obj\Debug\netcoreapp2.1\smallestOfThreeNumbers.pdb

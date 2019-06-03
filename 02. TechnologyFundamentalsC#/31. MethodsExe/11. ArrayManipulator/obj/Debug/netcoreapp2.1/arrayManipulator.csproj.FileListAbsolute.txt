@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\bin\Debug\netcoreapp2.1\arrayManipulator.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\bin\Debug\netcoreapp2.1\arrayManipulator.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\bin\Debug\netcoreapp2.1\arrayManipulator.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\bin\Debug\netcoreapp2.1\arrayManipulator.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\bin\Debug\netcoreapp2.1\arrayManipulator.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\arrayManipulator\obj\Debug\netcoreapp2.1\arrayManipulator.pdb

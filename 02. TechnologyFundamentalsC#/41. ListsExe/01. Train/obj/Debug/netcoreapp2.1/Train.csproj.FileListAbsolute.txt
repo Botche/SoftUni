@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\bin\Debug\netcoreapp2.1\Train.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\bin\Debug\netcoreapp2.1\Train.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\bin\Debug\netcoreapp2.1\Train.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\Train\obj\Debug\netcoreapp2.1\Train.pdb

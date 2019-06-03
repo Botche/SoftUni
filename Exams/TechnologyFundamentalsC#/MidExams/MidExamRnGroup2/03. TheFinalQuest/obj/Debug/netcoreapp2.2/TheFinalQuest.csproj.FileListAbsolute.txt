@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\bin\Debug\netcoreapp2.2\TheFinalQuest.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\bin\Debug\netcoreapp2.2\TheFinalQuest.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\bin\Debug\netcoreapp2.2\TheFinalQuest.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\bin\Debug\netcoreapp2.2\TheFinalQuest.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\bin\Debug\netcoreapp2.2\TheFinalQuest.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\TheFinalQuest\obj\Debug\netcoreapp2.2\TheFinalQuest.pdb

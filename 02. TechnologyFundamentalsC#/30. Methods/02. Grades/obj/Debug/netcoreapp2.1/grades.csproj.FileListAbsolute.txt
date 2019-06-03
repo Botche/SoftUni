@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\bin\Debug\netcoreapp2.1\grades.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\bin\Debug\netcoreapp2.1\grades.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\bin\Debug\netcoreapp2.1\grades.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\bin\Debug\netcoreapp2.1\grades.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\bin\Debug\netcoreapp2.1\grades.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\obj\Debug\netcoreapp2.1\grades.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\obj\Debug\netcoreapp2.1\grades.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\obj\Debug\netcoreapp2.1\grades.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\obj\Debug\netcoreapp2.1\grades.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\grades\obj\Debug\netcoreapp2.1\grades.pdb

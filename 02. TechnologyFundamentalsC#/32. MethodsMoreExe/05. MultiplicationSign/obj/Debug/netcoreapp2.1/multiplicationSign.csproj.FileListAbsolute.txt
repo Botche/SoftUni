@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\bin\Debug\netcoreapp2.1\multiplicationSign.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\bin\Debug\netcoreapp2.1\multiplicationSign.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\bin\Debug\netcoreapp2.1\multiplicationSign.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\bin\Debug\netcoreapp2.1\multiplicationSign.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\bin\Debug\netcoreapp2.1\multiplicationSign.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\obj\Debug\netcoreapp2.1\multiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\obj\Debug\netcoreapp2.1\multiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\obj\Debug\netcoreapp2.1\multiplicationSign.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\obj\Debug\netcoreapp2.1\multiplicationSign.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsMoreExe\multiplicationSign\obj\Debug\netcoreapp2.1\multiplicationSign.pdb

@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\bin\Debug\netcoreapp2.2\05. AppliedArithmetics.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\bin\Debug\netcoreapp2.2\05. AppliedArithmetics.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\bin\Debug\netcoreapp2.2\05. AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\bin\Debug\netcoreapp2.2\05. AppliedArithmetics.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\bin\Debug\netcoreapp2.2\05. AppliedArithmetics.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\obj\Debug\netcoreapp2.2\05. AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\obj\Debug\netcoreapp2.2\05. AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\obj\Debug\netcoreapp2.2\05. AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\obj\Debug\netcoreapp2.2\05. AppliedArithmetics.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\05. AppliedArithmetics\obj\Debug\netcoreapp2.2\05. AppliedArithmetics.pdb

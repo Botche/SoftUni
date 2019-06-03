@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\bin\Debug\netcoreapp2.2\6. BombTheBasement.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\bin\Debug\netcoreapp2.2\6. BombTheBasement.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\bin\Debug\netcoreapp2.2\6. BombTheBasement.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\bin\Debug\netcoreapp2.2\6. BombTheBasement.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\bin\Debug\netcoreapp2.2\6. BombTheBasement.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\6. BombTheBasement\obj\Debug\netcoreapp2.2\6. BombTheBasement.pdb

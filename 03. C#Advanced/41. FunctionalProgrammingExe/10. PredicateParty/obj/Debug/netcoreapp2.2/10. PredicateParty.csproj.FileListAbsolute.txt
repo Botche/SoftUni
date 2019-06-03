@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\bin\Debug\netcoreapp2.2\10. PredicateParty.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\bin\Debug\netcoreapp2.2\10. PredicateParty.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\bin\Debug\netcoreapp2.2\10. PredicateParty.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\bin\Debug\netcoreapp2.2\10. PredicateParty.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\bin\Debug\netcoreapp2.2\10. PredicateParty.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\obj\Debug\netcoreapp2.2\10. PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\obj\Debug\netcoreapp2.2\10. PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\obj\Debug\netcoreapp2.2\10. PredicateParty.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\obj\Debug\netcoreapp2.2\10. PredicateParty.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\41. FunctionalProgrammingExe\10. PredicateParty\obj\Debug\netcoreapp2.2\10. PredicateParty.pdb

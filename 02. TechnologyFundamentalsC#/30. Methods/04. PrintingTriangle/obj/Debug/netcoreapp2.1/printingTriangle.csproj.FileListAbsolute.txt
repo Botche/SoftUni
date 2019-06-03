@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\bin\Debug\netcoreapp2.1\printingTriangle.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\bin\Debug\netcoreapp2.1\printingTriangle.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\bin\Debug\netcoreapp2.1\printingTriangle.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\bin\Debug\netcoreapp2.1\printingTriangle.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\bin\Debug\netcoreapp2.1\printingTriangle.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\obj\Debug\netcoreapp2.1\printingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\obj\Debug\netcoreapp2.1\printingTriangle.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\obj\Debug\netcoreapp2.1\printingTriangle.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\obj\Debug\netcoreapp2.1\printingTriangle.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\Methods\printingTriangle\obj\Debug\netcoreapp2.1\printingTriangle.pdb

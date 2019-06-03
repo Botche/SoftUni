@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\bin\Debug\scholarship.exe.config
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\bin\Debug\scholarship.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\bin\Debug\scholarship.pdb
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\obj\Debug\scholarship.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\obj\Debug\scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\obj\Debug\scholarship.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\scholarship\obj\Debug\scholarship.pdb

@@ -6,7 +6,6 @@
 *.ide
 *.ide-shm
 *.ide-wal
-*.txt
 *.sln
 *.config
 *.targets

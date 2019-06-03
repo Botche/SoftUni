@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\bin\Debug\sumSeconds1.exe.config
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\bin\Debug\sumSeconds1.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\bin\Debug\sumSeconds1.pdb
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\obj\Debug\sumSeconds1.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\obj\Debug\sumSeconds1.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\obj\Debug\sumSeconds1.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\sumSeconds1\obj\Debug\sumSeconds1.pdb

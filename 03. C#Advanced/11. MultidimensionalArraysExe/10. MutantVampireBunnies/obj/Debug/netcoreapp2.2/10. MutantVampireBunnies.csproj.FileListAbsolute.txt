@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\bin\Debug\netcoreapp2.2\10. MutantVampireBunnies.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\bin\Debug\netcoreapp2.2\10. MutantVampireBunnies.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\bin\Debug\netcoreapp2.2\10. MutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\bin\Debug\netcoreapp2.2\10. MutantVampireBunnies.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\bin\Debug\netcoreapp2.2\10. MutantVampireBunnies.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\10. MutantVampireBunnies\obj\Debug\netcoreapp2.2\10. MutantVampireBunnies.pdb

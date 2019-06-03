@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\bin\Debug\netcoreapp2.1\NetherRealms.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\NetherRealms\obj\Debug\netcoreapp2.1\NetherRealms.pdb

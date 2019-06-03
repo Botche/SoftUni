@@ -1,0 +1,6 @@
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\bin\Debug\combination.exe.config
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\bin\Debug\combination.exe
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\bin\Debug\combination.pdb
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\obj\Debug\combination.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\obj\Debug\combination.exe
+C:\Users\Veso\Desktop\C#\nestedLoops\combination\obj\Debug\combination.pdb

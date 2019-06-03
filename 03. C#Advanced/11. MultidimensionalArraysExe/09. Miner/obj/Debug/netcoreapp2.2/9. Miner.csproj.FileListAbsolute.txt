@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\bin\Debug\netcoreapp2.2\9. Miner.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\bin\Debug\netcoreapp2.2\9. Miner.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\bin\Debug\netcoreapp2.2\9. Miner.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\bin\Debug\netcoreapp2.2\9. Miner.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\bin\Debug\netcoreapp2.2\9. Miner.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\9. Miner\obj\Debug\netcoreapp2.2\9. Miner.pdb

@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\bin\Debug\School Supplies.exe.config
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\bin\Debug\School Supplies.exe
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\bin\Debug\School Supplies.pdb
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\obj\Debug\School Supplies.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\obj\Debug\School Supplies.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\obj\Debug\School Supplies.exe
+C:\Users\Veso\Desktop\C#\finalExam\School Supplies\obj\Debug\School Supplies.pdb

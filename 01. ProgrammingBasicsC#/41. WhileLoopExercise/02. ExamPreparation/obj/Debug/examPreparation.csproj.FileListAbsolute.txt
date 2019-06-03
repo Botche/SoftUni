@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\bin\Debug\examPreparation.exe.config
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\bin\Debug\examPreparation.exe
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\bin\Debug\examPreparation.pdb
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\obj\Debug\examPreparation.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\obj\Debug\examPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\obj\Debug\examPreparation.exe
+C:\Users\Veso\Desktop\C#\whileExercise\examPreparation\obj\Debug\examPreparation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\Skeleton-CSharp\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListsMoreExe\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.pdb

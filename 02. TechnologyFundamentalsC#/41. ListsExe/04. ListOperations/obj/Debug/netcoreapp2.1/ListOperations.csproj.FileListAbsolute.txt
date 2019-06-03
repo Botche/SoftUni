@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ListExe\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.pdb

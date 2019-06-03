@@ -1,0 +1,6 @@
+C:\Users\Veso\Desktop\C#\toyShop\bin\Debug\toyShop.exe.config
+C:\Users\Veso\Desktop\C#\toyShop\bin\Debug\toyShop.exe
+C:\Users\Veso\Desktop\C#\toyShop\bin\Debug\toyShop.pdb
+C:\Users\Veso\Desktop\C#\toyShop\obj\Debug\toyShop.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\toyShop\obj\Debug\toyShop.exe
+C:\Users\Veso\Desktop\C#\toyShop\obj\Debug\toyShop.pdb

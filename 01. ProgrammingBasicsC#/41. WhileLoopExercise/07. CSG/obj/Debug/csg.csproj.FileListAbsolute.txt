@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\whileExercise\csg\bin\Debug\csg.exe.config
+C:\Users\Veso\Desktop\C#\whileExercise\csg\bin\Debug\csg.exe
+C:\Users\Veso\Desktop\C#\whileExercise\csg\bin\Debug\csg.pdb
+C:\Users\Veso\Desktop\C#\whileExercise\csg\obj\Debug\csg.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\whileExercise\csg\obj\Debug\csg.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\whileExercise\csg\obj\Debug\csg.exe
+C:\Users\Veso\Desktop\C#\whileExercise\csg\obj\Debug\csg.pdb

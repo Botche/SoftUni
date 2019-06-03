@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\bin\Debug\netcoreapp2.1\StarEnigma.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingExe\StarEnigma\obj\Debug\netcoreapp2.1\StarEnigma.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.2\OnTheWayToAnnapurna.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.2\OnTheWayToAnnapurna.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.2\OnTheWayToAnnapurna.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.2\OnTheWayToAnnapurna.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.2\OnTheWayToAnnapurna.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\FinalExamRn\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.2\OnTheWayToAnnapurna.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\bin\Debug\netcoreapp2.2\02. BasicQueueOperations.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\bin\Debug\netcoreapp2.2\02. BasicQueueOperations.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\bin\Debug\netcoreapp2.2\02. BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\bin\Debug\netcoreapp2.2\02. BasicQueueOperations.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\bin\Debug\netcoreapp2.2\02. BasicQueueOperations.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\02. BasicQueueOperations\obj\Debug\netcoreapp2.2\02. BasicQueueOperations.pdb

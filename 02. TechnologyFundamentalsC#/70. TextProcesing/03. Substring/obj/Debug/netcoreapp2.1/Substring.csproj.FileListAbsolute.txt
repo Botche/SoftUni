@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\bin\Debug\netcoreapp2.1\Substring.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\bin\Debug\netcoreapp2.1\Substring.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\bin\Debug\netcoreapp2.1\Substring.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\bin\Debug\netcoreapp2.1\Substring.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesing\Substring\obj\Debug\netcoreapp2.1\Substring.pdb

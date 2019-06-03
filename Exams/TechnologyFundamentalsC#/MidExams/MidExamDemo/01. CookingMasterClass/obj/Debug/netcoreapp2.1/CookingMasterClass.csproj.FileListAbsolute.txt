@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamDemo\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.pdb

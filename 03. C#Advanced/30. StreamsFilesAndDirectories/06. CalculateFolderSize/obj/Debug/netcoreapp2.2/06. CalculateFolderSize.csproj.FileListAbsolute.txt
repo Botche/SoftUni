@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\bin\Debug\netcoreapp2.2\06. CalculateFolderSize.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\bin\Debug\netcoreapp2.2\06. CalculateFolderSize.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\bin\Debug\netcoreapp2.2\06. CalculateFolderSize.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\bin\Debug\netcoreapp2.2\06. CalculateFolderSize.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\bin\Debug\netcoreapp2.2\06. CalculateFolderSize.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\obj\Debug\netcoreapp2.2\06. CalculateFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\obj\Debug\netcoreapp2.2\06. CalculateFolderSize.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\obj\Debug\netcoreapp2.2\06. CalculateFolderSize.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\obj\Debug\netcoreapp2.2\06. CalculateFolderSize.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\30. StreamsFilesAndDirectories\06. CalculateFolderSize\obj\Debug\netcoreapp2.2\06. CalculateFolderSize.pdb

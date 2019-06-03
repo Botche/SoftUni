@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\bin\Debug\netcoreapp2.2\03. ProductShop.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\bin\Debug\netcoreapp2.2\03. ProductShop.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\bin\Debug\netcoreapp2.2\03. ProductShop.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\bin\Debug\netcoreapp2.2\03. ProductShop.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\bin\Debug\netcoreapp2.2\03. ProductShop.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\20. SetsAndDictionariesAdvanced\03. ProductShop\obj\Debug\netcoreapp2.2\03. ProductShop.pdb

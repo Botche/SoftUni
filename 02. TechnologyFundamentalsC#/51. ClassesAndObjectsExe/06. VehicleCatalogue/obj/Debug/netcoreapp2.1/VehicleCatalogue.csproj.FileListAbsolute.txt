@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\bin\Debug\netcoreapp2.1\VehicleCatalogue.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\ClassesAndObjectsExe\VehicleCatalogue\obj\Debug\netcoreapp2.1\VehicleCatalogue.pdb

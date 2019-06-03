@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\bin\Debug\netcoreapp2.1\DragonArmy.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\bin\Debug\netcoreapp2.1\DragonArmy.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\bin\Debug\netcoreapp2.1\DragonArmy.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\bin\Debug\netcoreapp2.1\DragonArmy.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\bin\Debug\netcoreapp2.1\DragonArmy.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\DragonArmy\obj\Debug\netcoreapp2.1\DragonArmy.pdb

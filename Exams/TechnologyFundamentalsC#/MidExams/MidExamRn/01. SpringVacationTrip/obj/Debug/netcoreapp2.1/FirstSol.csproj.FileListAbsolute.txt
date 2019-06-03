@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\bin\Debug\netcoreapp2.1\FirstSol.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\bin\Debug\netcoreapp2.1\FirstSol.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\bin\Debug\netcoreapp2.1\FirstSol.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\bin\Debug\netcoreapp2.1\FirstSol.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\bin\Debug\netcoreapp2.1\FirstSol.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRn\FirstSol\obj\Debug\netcoreapp2.1\FirstSol.pdb

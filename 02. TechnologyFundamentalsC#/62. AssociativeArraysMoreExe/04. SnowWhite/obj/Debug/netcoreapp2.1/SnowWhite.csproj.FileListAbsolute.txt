@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\bin\Debug\netcoreapp2.1\SnowWhite.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\bin\Debug\netcoreapp2.1\SnowWhite.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\bin\Debug\netcoreapp2.1\SnowWhite.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\bin\Debug\netcoreapp2.1\SnowWhite.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\bin\Debug\netcoreapp2.1\SnowWhite.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\AssociativeArraysMoreExe\SnowWhite\obj\Debug\netcoreapp2.1\SnowWhite.pdb

@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\whileLab\walking\bin\Debug\walking.exe.config
+C:\Users\Veso\Desktop\C#\whileLab\walking\bin\Debug\walking.exe
+C:\Users\Veso\Desktop\C#\whileLab\walking\bin\Debug\walking.pdb
+C:\Users\Veso\Desktop\C#\whileLab\walking\obj\Debug\walking.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\whileLab\walking\obj\Debug\walking.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\whileLab\walking\obj\Debug\walking.exe
+C:\Users\Veso\Desktop\C#\whileLab\walking\obj\Debug\walking.pdb

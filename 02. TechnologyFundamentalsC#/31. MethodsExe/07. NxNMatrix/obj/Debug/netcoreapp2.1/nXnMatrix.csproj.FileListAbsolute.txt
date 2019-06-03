@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\bin\Debug\netcoreapp2.1\nXnMatrix.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\bin\Debug\netcoreapp2.1\nXnMatrix.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\bin\Debug\netcoreapp2.1\nXnMatrix.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\bin\Debug\netcoreapp2.1\nXnMatrix.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\bin\Debug\netcoreapp2.1\nXnMatrix.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\obj\Debug\netcoreapp2.1\nXnMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\obj\Debug\netcoreapp2.1\nXnMatrix.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\obj\Debug\netcoreapp2.1\nXnMatrix.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\obj\Debug\netcoreapp2.1\nXnMatrix.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MethodsExe\nXnMatrix\obj\Debug\netcoreapp2.1\nXnMatrix.pdb

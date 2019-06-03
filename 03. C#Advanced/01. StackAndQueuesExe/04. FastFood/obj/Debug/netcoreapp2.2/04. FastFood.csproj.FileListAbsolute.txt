@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\bin\Debug\netcoreapp2.2\04. FastFood.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\bin\Debug\netcoreapp2.2\04. FastFood.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\bin\Debug\netcoreapp2.2\04. FastFood.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\bin\Debug\netcoreapp2.2\04. FastFood.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\bin\Debug\netcoreapp2.2\04. FastFood.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\C#Advanced\StackAndQueuesExe\04. FastFood\obj\Debug\netcoreapp2.2\04. FastFood.pdb

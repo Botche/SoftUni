@@ -1,0 +1,6 @@
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\bin\Debug\fruitOrVegetable.exe.config
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\bin\Debug\fruitOrVegetable.exe
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\bin\Debug\fruitOrVegetable.pdb
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\obj\Debug\fruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\obj\Debug\fruitOrVegetable.exe
+C:\Users\Veso\Desktop\C#\sat27\fruitOrVegetable\obj\Debug\fruitOrVegetable.pdb

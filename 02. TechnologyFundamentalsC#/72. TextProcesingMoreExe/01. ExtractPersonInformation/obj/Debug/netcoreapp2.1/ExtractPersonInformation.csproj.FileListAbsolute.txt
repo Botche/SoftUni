@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\bin\Debug\netcoreapp2.1\ExtractPersonInformation.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\TextProcesingMoreExe\ExtractPersonInformation\obj\Debug\netcoreapp2.1\ExtractPersonInformation.pdb

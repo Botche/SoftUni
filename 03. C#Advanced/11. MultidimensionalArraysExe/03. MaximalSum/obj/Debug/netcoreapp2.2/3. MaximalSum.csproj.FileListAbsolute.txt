@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\bin\Debug\netcoreapp2.2\3. MaximalSum.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\bin\Debug\netcoreapp2.2\3. MaximalSum.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\bin\Debug\netcoreapp2.2\3. MaximalSum.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\bin\Debug\netcoreapp2.2\3. MaximalSum.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\bin\Debug\netcoreapp2.2\3. MaximalSum.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\obj\Debug\netcoreapp2.2\3. MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\obj\Debug\netcoreapp2.2\3. MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\obj\Debug\netcoreapp2.2\3. MaximalSum.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\obj\Debug\netcoreapp2.2\3. MaximalSum.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\11. MultidimensionalArraysExe\3. MaximalSum\obj\Debug\netcoreapp2.2\3. MaximalSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\bin\Debug\netcoreapp2.2\SeizeTheFire.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\bin\Debug\netcoreapp2.2\SeizeTheFire.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\bin\Debug\netcoreapp2.2\SeizeTheFire.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\bin\Debug\netcoreapp2.2\SeizeTheFire.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\bin\Debug\netcoreapp2.2\SeizeTheFire.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\MidExamRnGroup2\SeizeTheFire\obj\Debug\netcoreapp2.2\SeizeTheFire.pdb

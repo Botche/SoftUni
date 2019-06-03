@@ -1,0 +1,7 @@
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\bin\Debug\time+15.exe.config
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\bin\Debug\time+15.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\bin\Debug\time+15.pdb
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\obj\Debug\time+15.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\obj\Debug\time+15.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\obj\Debug\time+15.exe
+C:\Users\Veso\Desktop\C#\exerciseIf20.10\time+15\obj\Debug\time+15.pdb

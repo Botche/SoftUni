@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\bin\Debug\netcoreapp2.1\ChristmasSpirit.deps.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\bin\Debug\netcoreapp2.1\ChristmasSpirit.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\bin\Debug\netcoreapp2.1\ChristmasSpirit.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\bin\Debug\netcoreapp2.1\ChristmasSpirit.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\bin\Debug\netcoreapp2.1\ChristmasSpirit.pdb
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.dll
+C:\Users\Veso\Desktop\Programs\C#\TechModul4.0\RetakeMidExamDec\ChristmasSpirit\obj\Debug\netcoreapp2.1\ChristmasSpirit.pdb
