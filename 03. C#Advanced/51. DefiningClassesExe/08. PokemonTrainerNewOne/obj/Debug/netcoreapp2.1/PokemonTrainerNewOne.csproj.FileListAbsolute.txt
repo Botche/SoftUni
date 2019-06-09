@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\bin\Debug\netcoreapp2.1\PokemonTrainerNewOne.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\bin\Debug\netcoreapp2.1\PokemonTrainerNewOne.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\bin\Debug\netcoreapp2.1\PokemonTrainerNewOne.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\bin\Debug\netcoreapp2.1\PokemonTrainerNewOne.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\bin\Debug\netcoreapp2.1\PokemonTrainerNewOne.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\obj\Debug\netcoreapp2.1\PokemonTrainerNewOne.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\obj\Debug\netcoreapp2.1\PokemonTrainerNewOne.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\obj\Debug\netcoreapp2.1\PokemonTrainerNewOne.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\obj\Debug\netcoreapp2.1\PokemonTrainerNewOne.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\PokemonTrainerNewOne\obj\Debug\netcoreapp2.1\PokemonTrainerNewOne.pdb

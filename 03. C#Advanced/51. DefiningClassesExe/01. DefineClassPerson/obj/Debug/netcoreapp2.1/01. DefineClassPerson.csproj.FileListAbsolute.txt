@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\bin\Debug\netcoreapp2.1\01. DefineClassPerson.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\bin\Debug\netcoreapp2.1\01. DefineClassPerson.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\bin\Debug\netcoreapp2.1\01. DefineClassPerson.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\bin\Debug\netcoreapp2.1\01. DefineClassPerson.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\bin\Debug\netcoreapp2.1\01. DefineClassPerson.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\01. DefineClassPerson\obj\Debug\netcoreapp2.1\01. DefineClassPerson.csprojAssemblyReference.cache

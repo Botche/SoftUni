@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\bin\Debug\netcoreapp2.1\07. CarSalesman.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\bin\Debug\netcoreapp2.1\07. CarSalesman.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\bin\Debug\netcoreapp2.1\07. CarSalesman.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\bin\Debug\netcoreapp2.1\07. CarSalesman.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\bin\Debug\netcoreapp2.1\07. CarSalesman.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\07. CarSalesman\obj\Debug\netcoreapp2.1\07. CarSalesman.pdb

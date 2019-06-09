@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\bin\Debug\netcoreapp2.2\CompanyRoaster.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\bin\Debug\netcoreapp2.2\CompanyRoaster.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\bin\Debug\netcoreapp2.2\CompanyRoaster.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\bin\Debug\netcoreapp2.2\CompanyRoaster.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\bin\Debug\netcoreapp2.2\CompanyRoaster.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\CompanyRoaster\obj\Debug\netcoreapp2.2\CompanyRoaster.pdb

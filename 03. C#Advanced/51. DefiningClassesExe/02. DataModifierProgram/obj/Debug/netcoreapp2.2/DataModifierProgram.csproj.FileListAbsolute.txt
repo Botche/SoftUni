@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\bin\Debug\netcoreapp2.2\DataModifierProgram.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\bin\Debug\netcoreapp2.2\DataModifierProgram.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\bin\Debug\netcoreapp2.2\DataModifierProgram.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\bin\Debug\netcoreapp2.2\DataModifierProgram.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\bin\Debug\netcoreapp2.2\DataModifierProgram.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\DataModifierProgram\obj\Debug\netcoreapp2.2\DataModifierProgram.pdb
