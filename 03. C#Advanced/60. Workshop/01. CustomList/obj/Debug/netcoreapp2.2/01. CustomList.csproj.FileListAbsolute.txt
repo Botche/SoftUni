@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\bin\Debug\netcoreapp2.2\01. CustomList.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\bin\Debug\netcoreapp2.2\01. CustomList.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\bin\Debug\netcoreapp2.2\01. CustomList.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\bin\Debug\netcoreapp2.2\01. CustomList.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\bin\Debug\netcoreapp2.2\01. CustomList.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\01. CustomList\obj\Debug\netcoreapp2.2\01. CustomList.pdb

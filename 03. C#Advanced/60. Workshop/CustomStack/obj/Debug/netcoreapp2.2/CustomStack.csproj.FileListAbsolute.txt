@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\bin\Debug\netcoreapp2.2\CustomStack.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\bin\Debug\netcoreapp2.2\CustomStack.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\bin\Debug\netcoreapp2.2\CustomStack.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\bin\Debug\netcoreapp2.2\CustomStack.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\bin\Debug\netcoreapp2.2\CustomStack.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\obj\Debug\netcoreapp2.2\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\obj\Debug\netcoreapp2.2\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\obj\Debug\netcoreapp2.2\CustomStack.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\obj\Debug\netcoreapp2.2\CustomStack.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\60. Workshop\CustomStack\obj\Debug\netcoreapp2.2\CustomStack.pdb
