@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\bin\Debug\netcoreapp2.2\BoxOfT.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\bin\Debug\netcoreapp2.2\BoxOfT.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\bin\Debug\netcoreapp2.2\BoxOfT.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\bin\Debug\netcoreapp2.2\BoxOfT.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\bin\Debug\netcoreapp2.2\BoxOfT.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\70. Generics\BoxOfT\obj\Debug\netcoreapp2.2\BoxOfT.pdb
