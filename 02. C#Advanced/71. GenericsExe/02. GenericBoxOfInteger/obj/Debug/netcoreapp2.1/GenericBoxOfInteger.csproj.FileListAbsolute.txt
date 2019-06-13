@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.pdb

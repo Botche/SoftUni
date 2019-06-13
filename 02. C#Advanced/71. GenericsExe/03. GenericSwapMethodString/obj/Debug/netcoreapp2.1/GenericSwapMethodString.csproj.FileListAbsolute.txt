@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\bin\Debug\netcoreapp2.1\GenericSwapMethodString.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\GenericSwapMethodString\obj\Debug\netcoreapp2.1\GenericSwapMethodString.pdb

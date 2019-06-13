@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\bin\Debug\netcoreapp2.1\Tuple.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\bin\Debug\netcoreapp2.1\Tuple.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\bin\Debug\netcoreapp2.1\Tuple.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\bin\Debug\netcoreapp2.1\Tuple.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\bin\Debug\netcoreapp2.1\Tuple.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\71. GenericsExe\Tuple\obj\Debug\netcoreapp2.1\Tuple.pdb
