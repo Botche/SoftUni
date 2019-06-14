@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\bin\Debug\netcoreapp2.2\06. RectangleIntersection.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\bin\Debug\netcoreapp2.2\06. RectangleIntersection.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\bin\Debug\netcoreapp2.2\06. RectangleIntersection.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\bin\Debug\netcoreapp2.2\06. RectangleIntersection.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\bin\Debug\netcoreapp2.2\06. RectangleIntersection.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\51. DefiningClassesExe\06. RectangleIntersection\obj\Debug\netcoreapp2.2\06. RectangleIntersection.pdb
