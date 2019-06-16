@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\bin\Debug\netcoreapp2.2\TheGarden.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\Exams\DemoExam16June\TheGarden\obj\Debug\netcoreapp2.2\TheGarden.pdb
