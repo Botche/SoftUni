@@ -63,11 +63,6 @@ namespace TheGarden
                                         field[firstIndex][secondIndex] = ' ';
                                         counters[field[firstIndex][secondIndex]]++;
                                     }
-                                    else
-                                    {
-                                        break;
-                                    }
-
                                     firstIndex -= 2;
                                 }
                                 break;
@@ -78,10 +73,6 @@ namespace TheGarden
                                     {
                                         field[firstIndex][secondIndex] = ' ';
                                         counters[field[firstIndex][secondIndex]]++;
-                                    }
-                                    else
-                                    {
-                                        break;
                                     }
 
                                     firstIndex += 2;
@@ -95,10 +86,6 @@ namespace TheGarden
                                         field[firstIndex][secondIndex] = ' ';
                                         counters[field[firstIndex][secondIndex]]++;
                                     }
-                                    else
-                                    {
-                                        break;
-                                    }
 
                                     secondIndex -= 2;
                                 }
@@ -111,10 +98,6 @@ namespace TheGarden
                                         field[firstIndex][secondIndex] = ' ';
                                         counters[field[firstIndex][secondIndex]]++;
 
-                                    }
-                                    else
-                                    {
-                                        break;
                                     }
                                     secondIndex += 2;
                                 }
