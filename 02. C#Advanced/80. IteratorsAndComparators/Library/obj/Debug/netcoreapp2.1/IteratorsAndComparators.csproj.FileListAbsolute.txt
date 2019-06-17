@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\IteratorsAndComparators.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\bin\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparators\Library\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csprojAssemblyReference.cache
