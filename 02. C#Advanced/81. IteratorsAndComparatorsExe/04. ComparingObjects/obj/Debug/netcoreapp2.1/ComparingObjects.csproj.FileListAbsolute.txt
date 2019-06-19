@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\81. IteratorsAndComparatorsExe\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb
