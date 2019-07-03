@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\bin\Debug\netcoreapp2.2\01. RawData.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\bin\Debug\netcoreapp2.2\01. RawData.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\bin\Debug\netcoreapp2.2\01. RawData.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\bin\Debug\netcoreapp2.2\01. RawData.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\bin\Debug\netcoreapp2.2\01. RawData.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\01. WorkingWithAbstractionExe\01. RawData\obj\Debug\netcoreapp2.2\01. RawData.pdb
