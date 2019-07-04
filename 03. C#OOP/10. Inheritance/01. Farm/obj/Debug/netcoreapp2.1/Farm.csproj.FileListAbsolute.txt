@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\bin\Debug\netcoreapp2.1\Farm.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\bin\Debug\netcoreapp2.1\Farm.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\bin\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\bin\Debug\netcoreapp2.1\Farm.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\10. Inheritance\Farm\obj\Debug\netcoreapp2.1\Farm.pdb
