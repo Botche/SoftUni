@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\11. InheritanceExe\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
