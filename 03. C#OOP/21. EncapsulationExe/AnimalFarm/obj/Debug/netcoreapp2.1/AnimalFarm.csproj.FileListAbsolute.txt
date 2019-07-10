@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.pdb
