@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp2.1\Cars.pdb
