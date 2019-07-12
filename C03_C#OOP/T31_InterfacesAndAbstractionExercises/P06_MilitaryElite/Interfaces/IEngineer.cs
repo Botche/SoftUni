@@ -7,7 +7,7 @@ namespace MilitaryElite.Interfaces
 {
     public interface IEngineer : ISpecialisedSoldier
     {
-        List<Repair> Repairs { get; }
+        IReadOnlyCollection<Repair> Repairs { get; }
         void AddRepair(Repair repair);
     }
 }

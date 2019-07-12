@@ -7,7 +7,7 @@ namespace MilitaryElite.Interfaces
 {
     public interface ICommando : ISpecialisedSoldier
     {
-        List<Mission> Missions { get; }
+        IReadOnlyCollection<Mission> Missions { get; }
         void AddMission(Mission mission);
     }
 }

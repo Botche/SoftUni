@@ -6,7 +6,6 @@ namespace MilitaryElite.Models
 {
     public class Mission
     {
-
         public Mission(string codeName, string state)
         {
             CodeName = codeName;

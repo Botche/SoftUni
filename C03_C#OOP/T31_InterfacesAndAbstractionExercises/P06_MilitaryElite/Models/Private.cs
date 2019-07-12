@@ -1,25 +1,21 @@
 ﻿using MilitaryElite.Interfaces;
+using P06_MilitaryElite.Models;
 
 namespace MilitaryElite.Models
 {
-    public class Private : IPrivate
+    public class Private : Soldier, IPrivate
     {
         public Private(string id, string firstName, string lastName, decimal salary)
+            : base(id, firstName, lastName)
         {
-            Id = id;
-            FirstName = firstName;
-            LastName = lastName;
             Salary = salary;
         }
 
-        public string Id { get; private set; }
-        public string FirstName { get; private set; }
-        public string LastName { get; private set; }
         public decimal Salary { get; private set; }
 
         public override string ToString()
         {
-            return $"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}";
+            return base.ToString() + $"Salary: {Salary:f2}";
         }
     }
 }

@@ -1,33 +1,23 @@
 ﻿using MilitaryElite.Interfaces;
+using P06_MilitaryElite.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace MilitaryElite.Models
 {
-    public class Spy : ISpy
+    public class Spy : Soldier, ISpy
     {
         public Spy(string id, string firstName, string lastName, int codeNumber)
+            :base(id,firstName,lastName)
         {
-            Id = id;
-            FirstName = firstName;
-            LastName = lastName;
             CodeNumber = codeNumber;
         }
-
-        public string Id { get; }
-        public string FirstName { get; }
-        public string LastName { get; }
         public int CodeNumber { get; }
 
         public override string ToString()
         {
-            var sb = new StringBuilder();
-
-            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} ");
-            sb.AppendLine($"Code Number: {CodeNumber}");
-
-            return sb.ToString().TrimEnd();
+            return base.ToString().TrimEnd() +Environment.NewLine+$"Code Number: {CodeNumber}";
         }
     }
 }

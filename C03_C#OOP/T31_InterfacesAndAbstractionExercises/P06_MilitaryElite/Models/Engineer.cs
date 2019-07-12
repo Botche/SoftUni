@@ -1,49 +1,32 @@
 ﻿using MilitaryElite.Interfaces;
+using P06_MilitaryElite.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace MilitaryElite.Models
 {
-    public class Engineer : IEngineer
+    public class Engineer : SpecialisedSoldier,IEngineer
     {
-        private string corps;
+        private List<Repair> repairs;
         public Engineer(string id, string firstName, string lastName, decimal salary, string corps)
+            : base(id, firstName, lastName, salary, corps)
         {
-            Id = id;
-            FirstName = firstName;
-            LastName = lastName;
-            Salary = salary;
-            Corps = corps;
-            Repairs = new List<Repair>();
+            repairs = new List<Repair>();
         }
 
-        public string Id { get; } 
-        public string FirstName { get; } 
-        public string LastName { get; }
-        public decimal Salary { get; }
-        public string Corps
-        {
-            get => corps;
-            private set
-            {
-                ValidateCorps(value);
-                corps = value;
-            }
-        }
-        public List<Repair> Repairs { get; }
+        public IReadOnlyCollection<Repair> Repairs { get => repairs; }
 
         public void AddRepair(Repair repair)
         {
-            Repairs.Add(repair);
+            repairs.Add(repair);
         }
 
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}");
-            sb.AppendLine($"Corps: {Corps}");
+            sb.AppendLine(base.ToString());
 
             sb.AppendLine("Repairs:");
             foreach (var repair in Repairs)
@@ -52,14 +35,6 @@ namespace MilitaryElite.Models
             }
 
             return sb.ToString().TrimEnd();
-        }
-
-        private static void ValidateCorps(string value)
-        {
-            if (value != "Airforces" && value != "Marines")
-            {
-                throw new Exception();
-            }
         }
     }
 }

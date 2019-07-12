@@ -7,7 +7,7 @@ namespace MilitaryElite.Interfaces
 {
     public interface ILeutenantGeneral:IPrivate
     {
-        List<Private> Privates { get; }
+        IReadOnlyCollection<Private> Privates { get; }
         void AddPrivate(Private priv);
     }
 }
