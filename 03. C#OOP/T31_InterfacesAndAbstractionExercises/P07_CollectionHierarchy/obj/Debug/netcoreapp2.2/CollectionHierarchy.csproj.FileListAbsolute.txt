@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\bin\Debug\netcoreapp2.2\CollectionHierarchy.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\bin\Debug\netcoreapp2.2\CollectionHierarchy.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\bin\Debug\netcoreapp2.2\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\bin\Debug\netcoreapp2.2\CollectionHierarchy.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\bin\Debug\netcoreapp2.2\CollectionHierarchy.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\CollectionHierarchy\obj\Debug\netcoreapp2.2\CollectionHierarchy.pdb
