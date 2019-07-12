@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\bin\Debug\netcoreapp2.1\FootballTeamGenerator.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\21. EncapsulationExe\FootballTeamGenerator\obj\Debug\netcoreapp2.1\FootballTeamGenerator.pdb

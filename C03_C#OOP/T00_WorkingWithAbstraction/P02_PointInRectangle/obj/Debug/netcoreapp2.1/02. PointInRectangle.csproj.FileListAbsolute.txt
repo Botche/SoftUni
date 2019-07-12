@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.pdb

@@ -1,0 +1,10 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. HotelReservation.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. HotelReservation.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. HotelReservation.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. HotelReservation.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. HotelReservation.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. HotelReservation.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. HotelReservation.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\00. WorkingWithAbstraction\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. HotelReservation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\30. InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb

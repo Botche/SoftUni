@@ -1,0 +1,11 @@
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.deps.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\bin\Debug\netcoreapp2.1\MilitaryElite.pdb
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.dll
+C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\04. C#OOP\31. InterfacesAndAbstractionExercises\MilitaryElite\obj\Debug\netcoreapp2.1\MilitaryElite.pdb
