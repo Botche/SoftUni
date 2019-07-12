@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\bin\Debug\seaTrip.exe.config
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\bin\Debug\seaTrip.exe
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\bin\Debug\seaTrip.pdb
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\obj\Debug\seaTrip.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\obj\Debug\seaTrip.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\obj\Debug\seaTrip.exe
-C:\Users\Veso\Desktop\C#\testExamNoem\seaTrip\obj\Debug\seaTrip.pdb

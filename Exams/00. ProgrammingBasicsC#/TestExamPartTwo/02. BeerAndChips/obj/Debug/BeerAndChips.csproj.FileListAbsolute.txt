@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\bin\Debug\BeerAndChips.exe.config
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\bin\Debug\BeerAndChips.exe
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\bin\Debug\BeerAndChips.pdb
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\obj\Debug\BeerAndChips.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\obj\Debug\BeerAndChips.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\obj\Debug\BeerAndChips.exe
-C:\Users\Veso\Desktop\C#\exam1\BeerAndChips\obj\Debug\BeerAndChips.pdb

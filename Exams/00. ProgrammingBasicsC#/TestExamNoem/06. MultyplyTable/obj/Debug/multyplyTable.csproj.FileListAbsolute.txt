@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\bin\Debug\multyplyTable.exe.config
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\bin\Debug\multyplyTable.exe
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\bin\Debug\multyplyTable.pdb
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\obj\Debug\multyplyTable.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\obj\Debug\multyplyTable.exe
-C:\Users\Veso\Desktop\C#\testExamNoem\multyplyTable\obj\Debug\multyplyTable.pdb

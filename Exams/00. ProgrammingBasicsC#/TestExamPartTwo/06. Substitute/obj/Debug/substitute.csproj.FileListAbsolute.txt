@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\exam1\substitute\bin\Debug\substitute.exe.config
-C:\Users\Veso\Desktop\C#\exam1\substitute\bin\Debug\substitute.exe
-C:\Users\Veso\Desktop\C#\exam1\substitute\bin\Debug\substitute.pdb
-C:\Users\Veso\Desktop\C#\exam1\substitute\obj\Debug\substitute.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\exam1\substitute\obj\Debug\substitute.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exam1\substitute\obj\Debug\substitute.exe
-C:\Users\Veso\Desktop\C#\exam1\substitute\obj\Debug\substitute.pdb

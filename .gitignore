@@ -13,3 +13,9 @@
 *.dll
 *.json
 *.props
+*.user
+_ReSharper.*
+bin
+obj
+packages
+Properties
