@@ -33,7 +33,7 @@ namespace SimpleSnake.GameObjects.Points
         {
             for (int leftX = 0; leftX < this.LeftX; leftX++)
             {
-                this.Draw(wallSymbol, leftX, topY);
+                this.Draw(leftX, topY, wallSymbol);
             }
         }
 
@@ -41,7 +41,7 @@ namespace SimpleSnake.GameObjects.Points
         {
             for (int topY = 0; topY < this.TopY; topY++)
             {
-                this.Draw(wallSymbol, topY, leftX);
+                this.Draw(leftX, topY, wallSymbol);
             }
         }
     }

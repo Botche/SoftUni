@@ -63,13 +63,13 @@ namespace SimpleSnake.GameObjects
             this.snakeElements.Enqueue(snakeNewHead);
             snakeNewHead.Draw(snakeSymbol);
 
-            Point snakeTail = this.snakeElements.Dequeue();
-            snakeTail.Draw(emptySpace);
-
             if (foods[foodIndex].IsFoodPoint(snakeNewHead))
             {
                 this.Eat(direction, snakeNewHead);
             }
+
+            Point snakeTail = this.snakeElements.Dequeue();
+            snakeTail.Draw(emptySpace);
 
             return true;
         }
@@ -78,18 +78,18 @@ namespace SimpleSnake.GameObjects
         {
             int length = foods[foodIndex].FoodPoints;
 
-            int leftX = currentSnakeHead.LeftX;
-            int topY = currentSnakeHead.TopY;
+            // int leftX = currentSnakeHead.LeftX;
+            // int topY = currentSnakeHead.TopY;
 
-            GetNextPoint(direction, currentSnakeHead);
+            // GetNextPoint(direction, currentSnakeHead);
             for (int i = 0; i < length; i++)
             {
                 var point = new Point(this.nextLeftX, this.nextTopY);
                 this.snakeElements.Enqueue(point);
 
-                point.Draw(snakeSymbol);
-                leftX += direction.LeftX;
-                topY += direction.TopY;
+                // point.Draw(snakeSymbol);
+                // leftX += direction.LeftX;
+                // topY += direction.TopY;
 
                 GetNextPoint(direction, currentSnakeHead);
             }

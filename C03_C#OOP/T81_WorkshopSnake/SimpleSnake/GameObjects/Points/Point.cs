@@ -14,6 +14,7 @@ namespace SimpleSnake.GameObjects.Points
         }
 
         public int LeftX { get ; set; }
+
         public int TopY { get; set; }
 
         public void Draw(char symbol)
@@ -22,7 +23,7 @@ namespace SimpleSnake.GameObjects.Points
             Console.Write(symbol);
         }
 
-        public void Draw(char symbol, int leftX, int topY)
+        public void Draw(int leftX, int topY, char symbol)
         {
             Console.SetCursorPosition(leftX, topY);
             Console.Write(symbol);

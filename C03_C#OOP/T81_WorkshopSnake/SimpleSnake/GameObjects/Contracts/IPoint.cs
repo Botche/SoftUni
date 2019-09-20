@@ -12,6 +12,6 @@ namespace SimpleSnake.GameObjects.Contracts
 
         void Draw(char symbol);
 
-        void Draw(char symbol,int leftX,int topY);
+        void Draw(int leftX,int topY, char symbol);
     }
 }
