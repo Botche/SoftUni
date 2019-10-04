@@ -1,4 +1,4 @@
-USE Softuni
+USE Softuni;
 
 -- Problem 1
 SELECT TOP(5) e.EmployeeId, e.JobTitle, a.AddressId, a.AddressText
@@ -37,3 +37,21 @@ FROM Employees AS e
 FULL JOIN EmployeesProjects AS ep ON e.EmployeeID = ep.EmployeeID
 WHERE ep.ProjectID IS NULL
 ORDER BY e.EmployeeID;
+
+-- Problem 6
+SELECT e.FirstName, e.LastName, e.HireDate, d.[Name]
+FROM Employees AS e
+JOIN Departments AS d ON e.DepartmentID = d.DepartmentID
+WHERE e.HireDate > 1/1/1999 AND d.DepartmentID IN(3, 10)
+ORDER BY e.HireDate;
+
+-- Problem 7
+SELECT TOP(5) sq.EmployeeID, sq.FirstName, p.[Name] AS [ProjectName]
+FROM(
+	SELECT e.EmployeeID, e.FirstName, ep.ProjectID
+	FROM Employees AS e
+	JOIN EmployeesProjects AS ep ON e.EmployeeID = ep.EmployeeID
+) AS sq
+JOIN Projects AS p ON sq.ProjectID = p.ProjectID
+WHERE p.StartDate > 13/08/2002 AND p.EndDate IS NULL
+ORDER BY sq.EmployeeID;
