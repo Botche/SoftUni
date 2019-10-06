@@ -55,3 +55,39 @@ FROM(
 JOIN Projects AS p ON sq.ProjectID = p.ProjectID
 WHERE p.StartDate > 13/08/2002 AND p.EndDate IS NULL
 ORDER BY sq.EmployeeID;
+
+-- Problem 8
+SELECT e.EmployeeID, e.FirstName,
+		IIF(p.StartDate <= '01/01/2005', p.[Name], NULL) AS ProjectName
+FROM Employees AS e
+JOIN EmployeesProjects AS ep ON ep.EmployeeID = e.EmployeeID
+JOIN Projects AS p ON p.ProjectID = ep.ProjectID
+WHERE e.EmployeeID = 24;
+
+-- Problem 9
+SELECT e.EmployeeID, e.FirstName, e.ManagerID, m.FirstName
+FROM Employees AS e
+JOIN Employees AS m ON m.EmployeeID = e.ManagerID
+WHERE e.ManagerID IN(3, 7)
+ORDER BY e.EmployeeID;
+
+-- Problem 10
+SELECT TOP(50)
+		e.EmployeeID,
+		CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeName,
+		CONCAT(m.FirstName, ' ', m.LastName) AS ManagerName,
+		d.[Name] AS DepartmentName
+FROM Employees AS e
+JOIN Employees AS m ON m.EmployeeID = e.ManagerID
+JOIN Departments AS d ON d.DepartmentID = e.DepartmentID
+ORDER BY e.EmployeeID;
+
+-- Problem 11
+SELECT TOP(1) sq.AverageSalary AS MinAverageSalary
+FROM(
+	SELECT d.DepartmentID, AVG(e.Salary) AS AverageSalary
+	FROM Employees AS e
+	JOIN Departments AS d ON d.DepartmentID = e.DepartmentID
+	GROUP BY d.DepartmentID
+) AS sq
+ORDER BY sq.AverageSalary;
