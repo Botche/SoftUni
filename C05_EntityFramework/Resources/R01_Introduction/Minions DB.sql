@@ -31,27 +31,28 @@ INSERT INTO MinionsVillains (MinionId, VillainId) VALUES (4,2),(1,1),(5,7),(3,5)
     JOIN MinionsVillains AS mv ON v.Id = mv.VillainId 
 GROUP BY v.Id, v.Name 
   HAVING COUNT(mv.VillainId) > 3 
-ORDER BY COUNT(mv.VillainId)
+ORDER BY COUNT(mv.VillainId) 
 
 --Problem 03
-SELECT Name FROM Villains WHERE Id = @Id
+SELECT Name FROM Villains WHERE Id = @id
 
 SELECT ROW_NUMBER() OVER (ORDER BY m.Name) as RowNum,
                                          m.Name, 
                                          m.Age
                                     FROM MinionsVillains AS mv
                                     JOIN Minions As m ON mv.MinionId = m.Id
-                                   WHERE mv.VillainId = @Id
+                                   WHERE mv.VillainId = @id
                                 ORDER BY m.Name
 
 --Problem 04
 SELECT Id FROM Villains WHERE Name = @Name
-SELECT Id FROM Minions WHERE Name = @Name
+SELECT Id FROM Minions WHERE Name = @Name 
+SELECT Id FROM Towns WHERE Name = @townName
+
 INSERT INTO MinionsVillains (MinionId, VillainId) VALUES (@villainId, @minionId)
 INSERT INTO Villains (Name, EvilnessFactorId)  VALUES (@villainName, 4)
-INSERT INTO Minions (Name, Age, TownId) VALUES (@nam, @age, @townId)
+INSERT INTO Minions (Name, Age, TownId) VALUES (@name, @age, @townId)
 INSERT INTO Towns (Name) VALUES (@townName)
-SELECT Id FROM Towns WHERE Name = @townName
 
 --Problem 05
 UPDATE Towns
@@ -73,7 +74,7 @@ DELETE FROM Villains
       WHERE Id = @villainId
 
 --Problem 07
-SELECT Name FROM Minions
+SELECT [Name] FROM Minions
 
 --Problem 8
  UPDATE Minions
