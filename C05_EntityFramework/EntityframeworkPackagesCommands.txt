@@ -1,0 +1,11 @@
+1. Packeges commands:
+	--Install-Package Microsoft.EntityFrameworkCore.Tools –version 2.2.0
+	--Install-Package Microsoft.EntityFrameworkCore.SqlServer –version 2.2.0
+	--Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
+	
+2. Scaffold command:
+	--Scaffold-DbContext -Connection "Server=.\SQLEXPRESS;Database=SoftUni;Integrated Security=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models
+	
+3. Unistall packages:
+	--Uninstall-Package Microsoft.EntityFrameworkCore.Tools -r
+	--Uninstall-Package Microsoft.EntityFrameworkCore.SqlServer.Design -RemoveDependencies
