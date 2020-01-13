@@ -53,7 +53,7 @@
                                 ? DateTime.ParseExact(projectDto.DueDate, "dd/MM/yyyy", CultureInfo.InvariantCulture)
                                 : nullableDateTime
                 };
-
+                
                 foreach (var taskDto in projectDto.Tasks)
                 {
                     if (!IsValid(taskDto))
