@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\bin\Debug\cookieFactory.exe.config
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\bin\Debug\cookieFactory.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\bin\Debug\cookieFactory.pdb
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\obj\Debug\cookieFactory.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\obj\Debug\cookieFactory.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\obj\Debug\cookieFactory.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\cookieFactory\obj\Debug\cookieFactory.pdb

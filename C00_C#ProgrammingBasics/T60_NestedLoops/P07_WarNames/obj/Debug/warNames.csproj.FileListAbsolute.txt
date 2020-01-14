@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\bin\Debug\warNames.exe.config
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\bin\Debug\warNames.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\bin\Debug\warNames.pdb
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\obj\Debug\warNames.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\obj\Debug\warNames.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\obj\Debug\warNames.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\warNames\obj\Debug\warNames.pdb

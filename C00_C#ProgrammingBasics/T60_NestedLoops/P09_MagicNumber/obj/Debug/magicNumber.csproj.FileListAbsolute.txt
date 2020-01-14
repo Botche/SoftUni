@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\bin\Debug\magicNumber.exe.config
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\bin\Debug\magicNumber.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\bin\Debug\magicNumber.pdb
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\obj\Debug\magicNumber.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\obj\Debug\magicNumber.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\obj\Debug\magicNumber.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\magicNumber\obj\Debug\magicNumber.pdb

@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\bin\Debug\SetCover.exe.config
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\bin\Debug\SetCover.exe
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\bin\Debug\SetCover.pdb
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\obj\Debug\SetCover.exe
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\04. SetCover\obj\Debug\SetCover.pdb

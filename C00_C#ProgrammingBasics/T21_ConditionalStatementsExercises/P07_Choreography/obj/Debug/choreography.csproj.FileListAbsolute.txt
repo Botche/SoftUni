@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\bin\Debug\choreography.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\bin\Debug\choreography.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\bin\Debug\choreography.pdb
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\obj\Debug\choreography.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\obj\Debug\choreography.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\choreography\obj\Debug\choreography.pdb

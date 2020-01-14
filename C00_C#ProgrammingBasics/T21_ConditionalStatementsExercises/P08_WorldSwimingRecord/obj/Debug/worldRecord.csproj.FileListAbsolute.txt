@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\bin\Debug\worldRecord.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\bin\Debug\worldRecord.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\bin\Debug\worldRecord.pdb
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\obj\Debug\worldRecord.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\obj\Debug\worldRecord.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\obj\Debug\worldRecord.pdb
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\worldRecord\obj\Debug\worldRecord.csprojAssemblyReference.cache

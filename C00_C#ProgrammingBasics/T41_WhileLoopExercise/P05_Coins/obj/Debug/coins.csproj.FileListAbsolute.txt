@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\whileExercise\coins\bin\Debug\coins.exe.config
-C:\Users\Veso\Desktop\C#\whileExercise\coins\bin\Debug\coins.exe
-C:\Users\Veso\Desktop\C#\whileExercise\coins\bin\Debug\coins.pdb
-C:\Users\Veso\Desktop\C#\whileExercise\coins\obj\Debug\coins.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\whileExercise\coins\obj\Debug\coins.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\whileExercise\coins\obj\Debug\coins.exe
-C:\Users\Veso\Desktop\C#\whileExercise\coins\obj\Debug\coins.pdb

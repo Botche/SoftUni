@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\bin\Debug\invalidNumber.exe.config
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\bin\Debug\invalidNumber.exe
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\bin\Debug\invalidNumber.pdb
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\obj\Debug\invalidNumber.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\obj\Debug\invalidNumber.exe
-C:\Users\Veso\Desktop\C#\sat27\invalidNumber\obj\Debug\invalidNumber.pdb

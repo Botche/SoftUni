@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\bin\Debug\cleverLily.exe.config
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\bin\Debug\cleverLily.exe
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\bin\Debug\cleverLily.pdb
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\obj\Debug\cleverLily.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\obj\Debug\cleverLily.exe
-C:\Users\Veso\Desktop\C#\forLab\cleverLily\obj\Debug\cleverLily.pdb

@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\bin\Debug\accountBalance.exe.config
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\bin\Debug\accountBalance.exe
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\bin\Debug\accountBalance.pdb
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\obj\Debug\accountBalance.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\obj\Debug\accountBalance.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\obj\Debug\accountBalance.exe
-C:\Users\Veso\Desktop\C#\whileLab\accountBalance\obj\Debug\accountBalance.pdb

@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\bin\Debug\threeBrothers.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\bin\Debug\threeBrothers.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\bin\Debug\threeBrothers.pdb
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\obj\Debug\threeBrothers.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\obj\Debug\threeBrothers.exe
-C:\Users\Veso\Desktop\C#\exerciseIf20.10\threeBrothers\obj\Debug\threeBrothers.pdb

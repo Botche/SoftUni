@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\bin\Debug\numberSequence.exe.config
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\bin\Debug\numberSequence.exe
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\bin\Debug\numberSequence.pdb
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\obj\Debug\numberSequence.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\obj\Debug\numberSequence.exe
-C:\Users\Veso\Desktop\C#\whileLab\numberSequence\obj\Debug\numberSequence.pdb

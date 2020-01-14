@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\bin\Debug\SumOfCoins.exe.config
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\bin\Debug\SumOfCoins.exe
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\bin\Debug\SumOfCoins.pdb
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\obj\Debug\SumOfCoins.exe
-C:\Users\Veso\Desktop\Programs\C#\Softuni\Courses\03. C#Advanced\90. Algorithms\03. SumOfCoins\obj\Debug\SumOfCoins.pdb

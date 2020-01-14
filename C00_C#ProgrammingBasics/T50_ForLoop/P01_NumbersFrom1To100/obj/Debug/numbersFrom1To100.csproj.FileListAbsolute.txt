@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\bin\Debug\numbersFrom1To100.exe.config
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\bin\Debug\numbersFrom1To100.exe
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\bin\Debug\numbersFrom1To100.pdb
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\obj\Debug\numbersFrom1To100.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\obj\Debug\numbersFrom1To100.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\obj\Debug\numbersFrom1To100.exe
-C:\Users\Veso\Desktop\C#\forLab\numbersFrom1To100\obj\Debug\numbersFrom1To100.pdb

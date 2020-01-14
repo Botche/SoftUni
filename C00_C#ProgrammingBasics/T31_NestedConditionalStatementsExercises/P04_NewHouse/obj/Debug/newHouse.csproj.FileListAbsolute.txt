@@ -1,6 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\bin\Debug\newHouse.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\bin\Debug\newHouse.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\bin\Debug\newHouse.pdb
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\obj\Debug\newHouse.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\obj\Debug\newHouse.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\newHouse\obj\Debug\newHouse.pdb

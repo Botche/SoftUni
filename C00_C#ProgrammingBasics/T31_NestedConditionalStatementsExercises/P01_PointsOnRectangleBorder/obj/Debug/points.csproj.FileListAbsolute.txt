@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\bin\Debug\points.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\bin\Debug\points.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\bin\Debug\points.pdb
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\obj\Debug\points.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\obj\Debug\points.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\obj\Debug\points.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\points\obj\Debug\points.pdb

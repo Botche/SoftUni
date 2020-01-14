@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\bin\Debug\fishing.exe.config
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\bin\Debug\fishing.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\bin\Debug\fishing.pdb
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\obj\Debug\fishing.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\obj\Debug\fishing.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\obj\Debug\fishing.exe
-C:\Users\Veso\Desktop\C#\exerciseIfElse\fishing\obj\Debug\fishing.pdb

@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\nestedLoops\building\bin\Debug\building.exe.config
-C:\Users\Veso\Desktop\C#\nestedLoops\building\bin\Debug\building.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\building\bin\Debug\building.pdb
-C:\Users\Veso\Desktop\C#\nestedLoops\building\obj\Debug\building.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\building\obj\Debug\building.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\building\obj\Debug\building.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\building\obj\Debug\building.pdb

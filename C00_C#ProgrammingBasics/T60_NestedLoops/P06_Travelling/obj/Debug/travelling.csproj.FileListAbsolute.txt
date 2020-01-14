@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\bin\Debug\travelling.exe.config
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\bin\Debug\travelling.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\bin\Debug\travelling.pdb
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\obj\Debug\travelling.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\obj\Debug\travelling.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\obj\Debug\travelling.exe
-C:\Users\Veso\Desktop\C#\nestedLoops\travelling\obj\Debug\travelling.pdb

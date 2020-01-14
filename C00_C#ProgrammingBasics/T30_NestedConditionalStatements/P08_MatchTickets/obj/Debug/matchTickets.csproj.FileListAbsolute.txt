@@ -1,7 +1,0 @@
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\bin\Debug\matchTickets.exe.config
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\bin\Debug\matchTickets.exe
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\bin\Debug\matchTickets.pdb
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\obj\Debug\matchTickets.csprojAssemblyReference.cache
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\obj\Debug\matchTickets.csproj.CoreCompileInputs.cache
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\obj\Debug\matchTickets.exe
-C:\Users\Veso\Desktop\C#\sat27\matchTickets\obj\Debug\matchTickets.pdb
