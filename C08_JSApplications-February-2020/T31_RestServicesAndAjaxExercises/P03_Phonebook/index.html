@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Phonebook</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <h1>Phonebook</h1>
+    <ul id="phonebook"></ul>
+    <button id="btnLoad">Load</button>
+
+    <h2>Create Contact</h2>
+    Person: <input type="text" id="person" pattern="^[A-Za-z]+( [A-Za-z]+)?$"
+            aria-label="Person name" title="Person name must match the pattern! '[A-Za-z]+( [A-Za-z]+)?''" />
+    <br>
+    Phone: <input type="tel" id="phone" pattern="^\+?([\d]{3})[-. ]{1}([\d]{3})[-. ]{1}([\d]{4})$" 
+            placeholder="+###-###-####" aria-label="10-digit area code" title="Phone number must match the pattern! '\+?([\d]{3})[-. ]{1}([\d]{3})[-. ]{1}([\d]{4})'" />
+    <br>
+    <button id="btnCreate">Create</button>
+    <script src="app.js"></script>
+
+</body>
+
+</html>
