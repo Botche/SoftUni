@@ -1,0 +1,45 @@
+{{> header}}
+
+{{#unless isLoggedIn}}
+<!-- Home page -->
+<div style="margin-top:3%; padding-top: 3%;" class="container">
+    <div class="row align-items-center my-5">
+        <div class="col-lg-12">
+            <img style="margin: 0 auto; display:block;" class="img-fluid rounded mb-4 mb-lg-0"
+                src="https://www.firstmid.com/wp-content/uploads/OpenforBusiness_SBALoan-900x400.png" alt="">
+        </div>
+        <div style="text-align:center;margin-top:5%;" class="col-lg-12">
+            <h1 class="font-weight-light">Does your business need support?</h1>
+
+            <a class="btn btn-primary" href="#/user/login">Create your cause and seek for donors</a>
+            <a class="btn btn-primary" href="#/user/register">Register</a>
+
+        </div>
+    </div>
+</div>
+<!-- ./Home page -->
+{{else}}
+<!-- Dashboard (All Causes View) -->
+<div style="margin-top:3%; padding-top: 3%;" class="container">
+    {{#each causes}}
+    <div style="margin-bottom:25%;" class="row">
+        <div class="col-lg-12">
+            <div class="card mt-4">
+                <img style="max-width: 1200px; height: auto; border-radius:25px;" class="card-img-top img-fluid"
+                    src="{{this.pictureUrl}}" alt="">
+                <div class="card-body">
+                    <h3 class="card-title">{{this.cause}}</h3>
+                    <p class="card-text">{{this.description}}</p>
+                    <a href="#/causes/details/{{this.id}}" class="btn btn-success">Become a donor $$$</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{else}}
+    <h1 class="text-center">NO CAUSES :(</h1>
+    {{/each}}
+</div>
+<!-- ./Dashboard (All Causes View) -->
+{{/unless}}
+
+{{> footer}}
