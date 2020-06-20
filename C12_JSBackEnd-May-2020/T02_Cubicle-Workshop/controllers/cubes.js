@@ -1,26 +1,18 @@
 const Cube = require('../models/cude');
-const database = require('./database')
 
-const getAllCubes = (callback) => {
-    database.getAllCubes((cubes) => {
-        callback(cubes);
-    });
+const getAllCubes =  async () => {
+    const cubes = await Cube.find().lean();
+
+    return cubes;
 };
 
-const saveCube = (cube, callback) => {
-    database.saveCube(cube, () => {
-        callback();
-    });
-}
+const getCube = async (id) => {
+    const cube = await Cube.findById(id).lean();
 
-const getCube = (id, callback) => {
-    database.getCube(id, (cube) => {
-        callback(cube);
-    })
+    return cube;
 }
 
 module.exports = {
     getAllCubes,
-    saveCube,
     getCube,
 };
