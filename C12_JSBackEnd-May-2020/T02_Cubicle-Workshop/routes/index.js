@@ -3,12 +3,10 @@ const { getAllCubes } = require('../controllers/cubes');
 
 const router = Router();
 
-router.get('/', (req, res) => {
-    getAllCubes((cubes) => {
-        res.render('index', {
-            title: 'Home',
-            cubes: cubes,
-        });
+router.get('/', async (req, res) => {
+    res.render('index', {
+        title: 'Home',
+        cubes: await getAllCubes(),
     });
 });
 
