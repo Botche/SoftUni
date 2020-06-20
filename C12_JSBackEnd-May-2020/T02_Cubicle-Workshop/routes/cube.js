@@ -6,13 +6,13 @@ const Cube = require('../models/cude');
 const { saveCube } = require('../controllers/cubes');
 const { getCube } = require('../controllers/cubes');
 
-router.get('/create', (req, res) => {
+router.get('/create-cube', (req, res) => {
     res.render('create', {
         title: 'Create Cube'
     });
 });
 
-router.post('/create', (req, res) => {
+router.post('/create-cube', (req, res) => {
     const {
         name,
         description,

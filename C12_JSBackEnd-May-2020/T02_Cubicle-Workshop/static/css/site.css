@@ -68,10 +68,10 @@ h1 {
     text-transform: uppercase;
 }
 
-div.no-cubes{
+div.no-cubes {
     text-align: center;
     text-transform: uppercase;
-
+    
     font-weight: bold;
 }
 
@@ -97,6 +97,7 @@ p.name {
     border-bottom: 1px solid #2b415433;
 }
 
+
 button, main a.btn {
     border: none;
     padding: 8px;
@@ -104,9 +105,8 @@ button, main a.btn {
     text-decoration: none;
     display: inline-block;
     font-size: 18px;
-    width: 43%;
+    width: 35%;
     margin: 12px;
-    margin-left: 6%;
     border-radius: 4px;
     background: #607588;
     color: white;
@@ -234,6 +234,19 @@ img#sadFaceImg{
 
 h2{
     text-align: center;
+}
+
+.accessories .accessory{
+    display: inline-block;
+    background-color: #f3f3f2;
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.accessories, .italic{
+    text-align: center;
+    font-style: italic;
 }
 
 footer {
