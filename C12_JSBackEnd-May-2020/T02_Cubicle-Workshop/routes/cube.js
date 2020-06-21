@@ -1,17 +1,17 @@
-const env = process.env.NODE_ENV || 'development';
-
 const { Router } = require('express');
 const router = Router();
-const Cube = require('../models/cude');
-const { getCube } = require('../controllers/cubes');
 
-router.get('/create-cube', (req, res) => {
+const Cube = require('../models/cude');
+
+const { getCubeWithAccessories } = require('../controllers/cubes');
+
+router.get('/create/cube', (req, res) => {
     res.render('create', {
         title: 'Create Cube'
     });
 });
 
-router.post('/create-cube', (req, res) => {
+router.post('/create/cube', (req, res) => {
     const {
         name,
         description,
@@ -19,11 +19,18 @@ router.post('/create-cube', (req, res) => {
         difficultyLevel
     } = req.body;
 
-    const cube = new Cube({ name, description, imageUrl, difficulty: difficultyLevel });
+    const cube = new Cube({ 
+        name, 
+        description, 
+        imageUrl, 
+        difficulty: difficultyLevel 
+    });
 
     cube.save((err) => {
         if (err) {
             console.log(err);
+
+            res.redirect('/create/cube')
         } else {
             res.redirect('/');
         }
@@ -31,8 +38,8 @@ router.post('/create-cube', (req, res) => {
 });
 
 router.get('/details/:id', async (req, res) => {
-    const cube = await getCube(req.params.id);
-    
+    const cube = await getCubeWithAccessories(req.params.id);
+     
     res.render('details', {
         title: 'Details',
         ...cube

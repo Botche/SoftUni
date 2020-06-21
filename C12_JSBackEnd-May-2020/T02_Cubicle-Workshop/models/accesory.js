@@ -20,4 +20,8 @@ const AccesorySchema = new mogoose.Schema({
     }]
 });
 
+AccesorySchema.path('imageUrl').validate(function (url) {
+    return url.startsWith('http') || url.startsWith('https');
+}, 'Image url is not valid!');
+
 module.exports = mogoose.model('Accesory', AccesorySchema);

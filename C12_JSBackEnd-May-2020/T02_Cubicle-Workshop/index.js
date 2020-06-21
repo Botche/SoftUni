@@ -5,6 +5,7 @@ const config = require('./config/config')[env];
 const app = require('express')();
 const indexRouter = require('./routes/index');
 const cubeRouter = require('./routes/cube');
+const accessoryRouter = require('./routes/accessory');
 
 mongoose.connect(config.databaseUrl, {
   useNewUrlParser: true,
@@ -22,6 +23,7 @@ require('./config/express')(app);
 
 app.use('/', indexRouter);
 app.use('/', cubeRouter);
+app.use('/', accessoryRouter);
 
 app.get('*', (req, res) => {
     res.render('404', {

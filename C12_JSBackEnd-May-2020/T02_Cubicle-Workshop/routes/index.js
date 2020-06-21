@@ -1,4 +1,5 @@
 const { Router } = require('express');
+
 const { getAllCubes } = require('../controllers/cubes');
 
 const router = Router();
