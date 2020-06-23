@@ -23,7 +23,11 @@ const CubeSchema = new mogoose.Schema({
     accessories: [{
         type: mogoose.Types.ObjectId,
         ref: 'Accesory'
-    }]
+    }],
+    creatorId: {
+        type: String,
+        required: true
+    }
 });
 
 CubeSchema.path('imageUrl').validate(function (url) {

@@ -1,4 +1,5 @@
 const Cube = require('../models/cude');
+const Accessory = require('../models/accesory');
 
 const getAllCubes =  async () => {
     const cubes = await Cube.find().lean();
@@ -20,8 +21,45 @@ const getCubeWithAccessories = async (id) => {
 
 const updateCube = async (cubeId, accessoryId) => {
     await Cube.findByIdAndUpdate(cubeId, {
-        accessories: [accessoryId]
+        $addToSet: {
+            accessories: [accessoryId],
+        },
     });
+
+    await Accessory.findByIdAndUpdate(accessoryId, {
+      $addToSet: {
+        cubes: [cubeId],
+      },
+    });
+}
+
+const editCube = async (id, name, description, imageUrl, difficulty) => {
+    await Cube.findByIdAndUpdate(id, {
+        name: name,
+        description: description,
+        imageUrl: imageUrl,
+        difficulty: difficulty
+    });
+}
+
+const deleteCube = async (id) => {
+    await Cube.findByIdAndDelete(id);
+
+    const accessories = await Accessory.find().lean();
+    
+    accessories
+        .forEach(accessory => {
+            accessory.cubes.forEach(cube => (async () => {
+                if (cube.toString() === id) {
+                    const cubeIndex = accessory.cubes.indexOf(cube);
+                    accessory.cubes.splice(cubeIndex, 1);
+                    
+                    await Accessory.findByIdAndUpdate(accessory._id, {
+                        cubes: accessory.cubes
+                    });
+                }
+            })())
+        });
 }
 
 module.exports = {
@@ -29,4 +67,6 @@ module.exports = {
     getCube,
     getCubeWithAccessories,
     updateCube,
+    editCube,
+    deleteCube,
 };
