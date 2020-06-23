@@ -3,12 +3,16 @@ const mogoose = require('mongoose');
 const AccesorySchema = new mogoose.Schema({
     name: {
         type: String,
-        required: true
+        required: true,
+        minlength: 5,
+        match: [/^[A-Za-z0-9]+$/, 'Name is not valid']
     },
     description: {
         type: String,
         required: true,
-        maxlength: 2000
+        minlength: 20,
+        maxlength: 2000,
+        match: [/^[A-Za-z0-9 ]+$/, 'Description is not valid']
     },
     imageUrl: {
         type: String,

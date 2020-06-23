@@ -15,40 +15,42 @@ router.get('/create/accessory', authAccess, getUserStatus, (req, res) => {
     })
 });
 
-router.post('/create/accessory', authAccess, (req, res) => {
+router.post('/create/accessory', authAccess, getUserStatus, async (req, res) => {
     const {
         name,
         description,
         imageUrl
     } = req.body;
 
-    const accessory = new Accessory({ 
-        name, 
-        description, 
+    const accessory = new Accessory({
+        name,
+        description,
         imageUrl
     });
 
-    accessory.save((err) => {
-        if (err) {
-            console.log(err);
+    try {
+        await accessory.save();
 
-            res.redirect('/create/accessory')
-        } else {
-            res.redirect('/');
-        }
-    });
+        res.redirect('/');
+    } catch (error) {
+        return res.render('createAccessory', {
+            title: 'Create accesory',
+            isLoggedIn: req.isLoggedIn,
+            error: 'Accessory details are not valid'
+        });
+    }
 });
 
 router.get('/attach/accessory/:id', authAccess, getUserStatus, async (req, res) => {
     const cube = await getCube(req.params.id);
     const accessories = await getAllAccessories();
-    
+
     const fileredAccessories = accessories.filter(accessory => {
         return !cube.accessories
             .map(accessory => accessory.toString())
             .includes(accessory._id.toString());
     });
-    
+
     res.render('attachAccessory', {
         title: 'Attach accesory',
         ...cube,
@@ -57,15 +59,28 @@ router.get('/attach/accessory/:id', authAccess, getUserStatus, async (req, res) 
     })
 });
 
-router.post('/attach/accessory/:id', authAccess, async (req, res) => {
+router.post('/attach/accessory/:id', authAccess, getUserStatus, async (req, res) => {
+    const cubeId = req.params.id;
     const {
         accessory
     } = req.body;
- 
-    await updateCube(req.params.id, accessory);
-    await updateAccessory(accessory, req.params.id);
 
-    res.redirect(`/details/${req.params.id}`);
+    try {
+        await updateCube(cubeId, accessory);
+        await updateAccessory(accessory, cubeId);
+    } catch (error) {
+        const cube = await getCube(cubeId);
+
+        return res.render('attachAccessory', {
+            title: 'Attach accesory',
+            ...cube,
+            accessories: fileredAccessories,
+            isLoggedIn: req.isLoggedIn,
+            error: error
+        });
+    }
+
+    res.redirect(`/details/${cubeId}`);
 });
 
 module.exports = router;

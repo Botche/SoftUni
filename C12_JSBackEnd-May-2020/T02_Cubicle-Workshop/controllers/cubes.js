@@ -34,12 +34,16 @@ const updateCube = async (cubeId, accessoryId) => {
 }
 
 const editCube = async (id, name, description, imageUrl, difficulty) => {
-    await Cube.findByIdAndUpdate(id, {
-        name: name,
-        description: description,
-        imageUrl: imageUrl,
-        difficulty: difficulty
-    });
+    try {
+        await Cube.findByIdAndUpdate(id, {
+            name: name,
+            description: description,
+            imageUrl: imageUrl,
+            difficulty: difficulty
+        });
+    } catch (err) {
+        return err;
+    }
 }
 
 const deleteCube = async (id) => {

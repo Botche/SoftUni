@@ -36,7 +36,11 @@ const saveUser = async (req, res) => {
 
         return token;
     } catch (err) {
-        throw err;
+        
+        return {
+            error: true,
+            message: err
+        }
     }
 };
 

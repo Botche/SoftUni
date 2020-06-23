@@ -17,7 +17,7 @@ router.get('/create/cube', authAccess, getUserStatus, (req, res) => {
     });
 });
 
-router.post('/create/cube', authAccess, (req, res) => {
+router.post('/create/cube', authAccess, getUserStatus, async (req, res) => {
     const {
         name,
         description,
@@ -28,28 +28,29 @@ router.post('/create/cube', authAccess, (req, res) => {
     const token = req.cookies['aid']
     const decodedObject = jwt.verify(token, config.privateKey)
 
-    const cube = new Cube({ 
-        name, 
-        description, 
-        imageUrl, 
+    const cube = new Cube({
+        name,
+        description,
+        imageUrl,
         difficulty: difficultyLevel,
         creatorId: decodedObject.userID
     });
 
-    cube.save((err) => {
-        if (err) {
-            console.log(err);
-
-            res.redirect('/create/cube')
-        } else {
-            res.redirect('/');
-        }
-    });
+    try {
+        await cube.save();
+        return res.redirect('/');
+    } catch (err) {
+        return res.render('create', {
+            title: 'Create Cube',
+            isLoggedIn: req.isLoggedIn,
+            error: 'Cube details are not valid'
+        });
+    }
 });
 
 router.get('/details/:id', getUserStatus, async (req, res) => {
     const cube = await getCubeWithAccessories(req.params.id);
-     
+
     res.render('details', {
         title: 'Details',
         ...cube,
@@ -60,7 +61,7 @@ router.get('/details/:id', getUserStatus, async (req, res) => {
 router.get('/edit/cube/:id', authAccess, getUserStatus, async (req, res) => {
     const cubeId = req.params.id;
     const cube = await getCube(cubeId);
-    
+
     res.render('editCubePage', {
         title: 'Edit',
         ...cube,
@@ -68,24 +69,35 @@ router.get('/edit/cube/:id', authAccess, getUserStatus, async (req, res) => {
     });
 });
 
-router.post('/edit/cube/:id', authAccess, async (req, res) => {
+router.post('/edit/cube/:id', authAccess, getUserStatus, async (req, res) => {
     const cubeId = req.params.id;
-    const { 
+    const {
         name,
         description,
         imageUrl,
         difficultyLevel,
     } = req.body;
-    
-    const cube = await editCube(cubeId, name, description, imageUrl, difficultyLevel);
-    
+
+    const error = await editCube(cubeId, name, description, imageUrl, difficultyLevel);
+
+    if (error) {
+        const cube = await getCube(cubeId);
+
+        return res.render('editCubePage', {
+            title: 'Edit',
+            ...cube,
+            isLoggedIn: req.isLoggedIn,
+            error: error
+        })
+    }
+
     res.redirect('/');
 });
 
 router.get('/delete/cube/:id', authAccess, getUserStatus, async (req, res) => {
     const cubeId = req.params.id;
     const cube = await getCube(cubeId);
-    
+
     res.render('deleteCubePage', {
         title: 'Delete',
         ...cube,
@@ -93,11 +105,22 @@ router.get('/delete/cube/:id', authAccess, getUserStatus, async (req, res) => {
     });
 });
 
-router.post('/delete/cube/:id', authAccess, async (req, res) => {
+router.post('/delete/cube/:id', authAccess, getUserStatus, async (req, res) => {
     const cubeId = req.params.id;
-    
-    await deleteCube(cubeId);
-    
+
+    const error = await deleteCube(cubeId);
+
+    if (error) {
+        const cube = await getCube(cubeId);
+
+        return res.render('deleteCubePage', {
+            title: 'Delete',
+            ...cube,
+            isLoggedIn: req.isLoggedIn,
+            error: error
+        });
+    }
+
     res.redirect('/');
 });
 
