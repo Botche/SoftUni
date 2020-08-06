@@ -1,0 +1,48 @@
+{{#if isLoggedIn}}
+<h1 class="text-center">Courses</h1>
+
+<div class="clearfix">
+    <a href="/course/create" class="btn btn-warning float-left">Create Course</a>
+
+    <form class="search float-right">
+        <label>Search: </label>
+        <input type="text">
+        <button type="submit" class="btn btn-info">Search</button>
+    </form>
+</div>
+
+{{else}}
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">Video Tutorials</h1>
+        <p class="lead">Start Self-Study Today: It'll Change Your Life</p>
+    </div>
+</div>
+{{/if}}
+
+<div>
+    {{#unless isLoggedIn}}
+    <h1 class="text-center">Top Courses</h1>
+    {{/unless}}
+    <div class="container mt-3">
+        <div class="row d-flex justify-content-center card-deck">
+            {{#if isLoggedIn}}
+                {{#each courses}}
+                    <div class="card mb-4">
+                        {{> loggedIn-course}}
+                    </div>
+                {{else}}
+                    <p>No courses</p>
+                {{/each}}
+            {{else}}
+                {{#each courses}}
+                    <div class="card mb-4">
+                        {{> guest-course}}
+                    </div>
+                {{else}}
+                    <p>No courses...</p>
+                {{/each}}
+            {{/if}}
+        </div>
+    </div>
+</div>

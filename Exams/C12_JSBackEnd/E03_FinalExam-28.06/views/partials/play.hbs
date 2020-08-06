@@ -1,0 +1,12 @@
+<div class="home-image">
+    <img src="{{this.imageUrl}}" alt="{{this.title}}">
+</div>
+<div class="info">
+    <h4>{{this.title}}</h4>
+    {{#if isLoggedIn}}
+    <div class="info-buttons">
+        <a class="btn details" href="/play/details/{{this._id}}">Details</a>
+        <span class="likes">{{this.likes}} likes</span>
+    </div>
+    {{/if}}
+</div>
