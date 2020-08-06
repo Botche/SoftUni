@@ -1,0 +1,130 @@
+@media only screen and (max-width: 600px) {
+    .div-header {
+        display: none;
+    }
+
+    .logo-center {
+        width: 40%;
+    }
+
+    .options {
+        display: block;
+    }
+
+    .options article {
+        width: 100%;
+        text-align: center;
+    }
+
+    .options article h4 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .options article a {
+        font-size: 1.1rem;
+    }
+
+    .gallery {
+        display: block;
+    }
+
+    .gallery article {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .gallery article div a {
+        margin-left: 0;
+    }
+
+    #about-blog {
+        width: 90%;
+    }
+
+    .blog-title {
+        display: block;
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .blog-title h4 {
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .blog article img,
+    .blog .blog-title a,
+    .blog .blog-title h4 span {
+        display: none;
+    }
+
+    .magazine-title {
+        width: 100%;
+        padding: 0;
+    }
+
+    .magazine-title h4 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .magazine-title a {
+        display: none;
+    }
+
+    .magazine-title {
+        display: block;
+    }
+
+    .magazine article {
+        display: block;
+        width: 100%;
+    }
+
+    #magazine-img {
+        display: block;
+        border: none;
+        padding: 0;
+        margin: 0 auto;
+    }
+
+    .magazine-info {
+        margin: 0;
+    }
+
+    .magazine-info img {
+        width: 100%;
+    }
+
+    .magazine-info h3 {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .magazine-info p,
+    .magazine-info h3 {
+        text-align: center;
+    }
+    
+    .magazine-info button {
+        margin: 2rem auto 1rem;
+        display: block;
+    }
+
+    footer {
+        display: block;
+    }
+
+    footer p {
+        text-align: center;
+        font-size: 1.9rem;
+    }
+
+    .icons a {
+        display: block;
+        margin: 1rem 0;
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #306085;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    width: 80%;
+    margin: 5rem auto 0;
+    position: relative;
+}
+
+.main::before {
+    content: '';
+    position: absolute;
+    left: -10%;
+    bottom: -33%;
+    width: 5rem;
+    height: 10rem;
+    background: no-repeat url(./images/dots.svg);
+}
+
+.main-section-content {
+    flex-basis: 55%;
+}
+
+.main-section-content-header {
+    margin-bottom: 2rem;
+    font-weight: normal;
+}
+
+.main-section-content-certificate,
+.main-section-content-diploma {
+    margin-bottom: 1.5rem;
+    color: rgb(255, 255, 255, 0.9);
+}
+
+.main-section-content-certificate--bold,
+.main-section-content-diploma--bold {
+    font-weight: bolder;
+}
+
+.main-section-content-footer-content {
+    color: #AABECE;
+    font-style: italic;
+}
+
+.main-section-media {
+    flex-basis: 45%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+
+.main-section-media::before {
+    content: "";
+    background: no-repeat url(./images/dots.svg);
+    position: absolute;
+    right: 49%;
+    top: -13%;
+    width: 5rem;
+    height: 10rem;
+    z-index: -1;
+}
+
+.main-section-media::after {
+    content: "";
+    background: no-repeat url(./images/arrow.svg);
+    position: absolute;
+    right: -9%;
+    top: -3%;
+    width: 20rem;
+    height: 25rem;
+    z-index: -1;
+}

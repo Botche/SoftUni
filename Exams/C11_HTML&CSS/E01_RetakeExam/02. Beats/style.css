@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: block;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-header-navigation-list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 2rem 0;
+}
+
+.main-header-navigation-list-item {
+    margin: 0 5rem;
+}
+
+.main-header-navigation-list a {
+    color: #9D9D9D;
+    text-decoration: none;
+}
+
+.main-section-solo-wireless {
+    display: flex;
+}
+
+.main section {
+    padding: 3rem 12rem;
+}
+
+.main-section-solo-wireless-content {
+    flex-basis: 50%;
+    padding-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-section-solo-wireless-content-heading {
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.main-section-solo-wireless-media  {
+    flex-basis: 50%;
+}
+
+.main-section-solo-wireless-media img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section-solo-wireless-content-button {
+    margin-top: 2rem;
+}
+
+.red-button {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    width: 40%;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 1rem 0.5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.main-section-powerbeats {
+    background-color: #FBFCFF;
+    display: flex;
+}
+
+.main-section-powerbeats-media {
+    flex-basis: 50%;
+}
+
+.main-section-powerbeats-media img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section-powerbeats-content {
+    flex-basis: 50%;
+    padding-left: 5rem;
+}
+
+.main-section-powerbeats-content-header {
+    margin-bottom: 5rem;
+    text-transform: uppercase; 
+}
+
+.main-section-powerbeats-content-header-heading {
+    font-size: 4rem;
+}
+
+.main-section-powerbeats-content-header-subheading {
+    float: right;
+}
+
+.main-section-powerbeats-content-header-subheading::after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.main-section-powerbeats-content-header-subheading--bold {
+    font-weight: bold;
+}
+
+.main-section-powerbeats-content-buy-now {
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+}
+
+.main-section-powerbeats-content-buy-now-price {
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+
+.main-section-try-for-free {
+    background-color: #575757;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding-top: 1rem !important;
+}
+
+.main-section-try-for-free-logo {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.main-section-try-for-free-logo-media {
+    width: 5rem;
+}
+
+.main-section-try-for-free-logo-media img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section-try-for-free-logo-content {
+    padding-left: 2rem;
+}
+
+.main-section-try-for-free-logo-content--lighter-white {
+    color: #FAFAFA;
+    font-weight: 100;
+}
+
+.main-section-try-for-free-button {
+    cursor: pointer;
+    text-align: center;
+}
+
+.main-section-try-for-free-button-content {
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.main-section-girl {
+    padding: 0 !important;
+    display: flex;
+    background-color: #DADADA;
+}
+
+.main-section-girl-media {
+    flex-basis: 50%;
+}
+
+.main-section-girl-media img {
+    width: 100%;
+    height: 100%;
+}
+
+.main-section-girl-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 50%;
+}
+
+.main-section-girl-content-text-container {
+    margin-right: 5rem;
+}
+
+.main-section-girl-content-text {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 7rem;
+}
+
+.main-section-girl-content-text-beats-red {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.main-section-girl-content-text--red {
+    color: #FF0000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.main-section-footer {
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
