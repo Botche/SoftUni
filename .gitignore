@@ -3,3 +3,5 @@ bin
 obj
 .vs
 node_modules
+/C12_JSBackEnd-May-2020/T02_Cubicle-Workshop/config/database.json
+.env
