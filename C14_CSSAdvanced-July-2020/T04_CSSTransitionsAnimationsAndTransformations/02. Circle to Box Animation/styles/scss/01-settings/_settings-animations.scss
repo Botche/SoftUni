@@ -1,0 +1,18 @@
+@keyframes circle-to-square {
+    from {
+    }
+
+    50% {
+        background-color: $color-secondary-800;
+        width: 7rem;
+        height: 7rem;
+        border-radius: 0;
+    }
+
+    to {
+        background-color: $color-red-900;
+        border-radius: 50%;
+        width: 5rem;
+        height: 5rem;
+    }
+}

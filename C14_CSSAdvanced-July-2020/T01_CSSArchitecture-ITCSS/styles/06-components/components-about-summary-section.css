@@ -1,0 +1,59 @@
+.c-about-summary-section {
+    padding: 0 3rem 8rem; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.c-about-summary-section__content {
+    flex-basis: 40%;
+}
+
+.c-about-summary-section__paragraph {
+    margin-bottom: 2rem;
+}
+
+.c-about-summary-section__media {
+    margin-top: 20rem;
+    flex-basis: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-about-summary-section__image-wrapper {
+    margin-left: 5rem;
+    position: relative;
+    max-width: 25rem;
+    max-height: 25rem;
+}
+
+.c-about-summary-section__image-wrapper:first-child::before {
+    background: url('../../images/softuni-logo.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    left: -5rem;
+}
+
+.c-about-summary-section__image-wrapper:last-child::before {
+    background: url('../../images/software-university-logo.png');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    right: -5rem;
+}
+
+.c-about-summary-section__image-wrapper::before {    
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: -8rem;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0.6rem 1rem 0 rgba(41,57,75,.25);
+
+    background-color: #FFFFFF !important;
+}
+
+.c-about-summary-section__image {
+    border-radius: 0.8rem;
+}

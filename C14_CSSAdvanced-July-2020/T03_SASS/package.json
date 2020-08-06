@@ -1,0 +1,16 @@
+{
+  "name": "sass-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch styles/scss -o styles/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "modern-normalize": "^0.7.0",
+    "node-sass": "^4.14.1"
+  }
+}

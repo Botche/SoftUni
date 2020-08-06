@@ -1,0 +1,14 @@
+.arrow {
+    width: 5rem;
+    height: 5rem;
+    clip-path: polygon(50% 60%, 0% 100%, 100% 100%);
+    background-color: $color-white; 
+}
+
+.arrow-wrapper {
+    filter: drop-shadow(0 -0.1rem 0.1rem rgba(0, 0, 0, 0.3));
+    position: absolute;
+    left: 37.5%;
+    bottom: -9.6%;
+    transform: rotate(180deg) translate(-50%, -50%);
+}

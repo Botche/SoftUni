@@ -1,0 +1,54 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css";
+@import url(../../node_modules/modern-normalize/modern-normalize.css);
+html {
+  font-size: 10px; }
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.5; }
+
+@keyframes slides-in {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1;
+    transform: translate(3rem); } }
+
+ul {
+  list-style-type: none; }
+
+.container {
+  height: 100vh; }
+  .container--flex {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.animated-show {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; }
+  .animated-show .list-item:nth-child(1) {
+    animation-delay: 0.1s; }
+  .animated-show .list-item:nth-child(2) {
+    animation-delay: 0.2s; }
+  .animated-show .list-item:nth-child(3) {
+    animation-delay: 0.3s; }
+  .animated-show .list-item:nth-child(4) {
+    animation-delay: 0.4s; }
+  .animated-show .list-item:nth-child(5) {
+    animation-delay: 0.5s; }
+  .animated-show .list-item:nth-child(6) {
+    animation-delay: 0.6s; }
+  .animated-show .list-item:nth-child(7) {
+    animation-delay: 0.7s; }
+  .animated-show .list-item {
+    transform: translate(-3rem);
+    opacity: 0;
+    animation: slides-in 1s ease-out;
+    animation-fill-mode: forwards; }
+    .animated-show .list-item__icon {
+      margin-right: 1rem;
+      width: 2rem; }

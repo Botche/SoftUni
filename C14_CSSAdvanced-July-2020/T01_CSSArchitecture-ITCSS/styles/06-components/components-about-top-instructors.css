@@ -1,0 +1,9 @@
+.c-about-top-instructors__heading {
+    margin-top: 0;
+}
+
+.c-about-top-instructors__media {
+    display: flex;
+    justify-content: space-around;
+}
+

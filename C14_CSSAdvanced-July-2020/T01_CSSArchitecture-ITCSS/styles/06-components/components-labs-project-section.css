@@ -1,0 +1,36 @@
+.c-labs-project-section {
+    padding: 0 3rem 8rem; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.c-labs-project-section__content {
+    flex-basis: 40%;
+}
+
+.c-labs-project-section__heading {
+    margin-top: 0;
+}
+
+.c-labs-project-section__paragraph {
+    margin-bottom: 2rem;
+}
+
+.c-labs-project-section__media {
+    flex-basis: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.c-labs-project-section__image-wrapper {
+    margin-left: 5rem;
+}
+
+.c-labs-project-section__image-wrapper:first-child {
+    margin-top: 15rem;
+}
+
+.c-labs-project-section__image {
+    border-radius: 0.8rem;
+}

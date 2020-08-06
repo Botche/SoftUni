@@ -1,0 +1,41 @@
+input {
+    background-color: $color-grey-50;
+    border-radius: 0.4rem;
+    border: 1px solid $color-secondary-800;
+    padding: 1.2rem;
+    position: relative;
+
+    &:hover {
+        pointer-events: none;
+        filter: blur();
+    }
+
+    &[type=checkbox] {
+        -webkit-appearance: none;
+        background-color: $color-white;
+        border: 0.1rem solid $color-white;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+        padding: 0.6rem;
+        border-radius: 0.3rem;
+        position: relative;
+    
+        &:checked {
+            border: 0.1rem solid $color-primary-300;
+            background-color: $color-primary-300;
+        }
+
+        &:checked:after {
+            width: 100%;
+            content: '\2714';
+            font-size: 1.4rem;
+            position: absolute;
+            top: -10%;
+            left: 0%;
+            color: $color-white;
+        }
+    }
+
+    &::placeholder {
+        color: $color-grey-500;
+    }
+}

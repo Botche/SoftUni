@@ -1,0 +1,24 @@
+.o-card {
+    box-shadow: 0 0.6rem 1rem 0 rgba(41,57,75,.25);
+    border-radius: 0.8rem;
+    margin-bottom: 10rem;
+}
+
+.o-card__image {
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+}
+
+.o-card__content {
+    text-align: center;
+}
+
+.o-card__heading {
+    padding-top: 2rem;
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.o-card__paragraph {
+    margin-top: 0;
+}

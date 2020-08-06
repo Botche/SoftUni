@@ -1,0 +1,19 @@
+@keyframes bigger-outline {
+    from {
+        outline-width: 0.5rem;
+    }
+
+    to {
+        outline-width: 1.5rem;
+    }
+}
+
+@keyframes smaller-outline {
+    from {
+        outline-width: 1.5rem;
+    }
+
+    to {
+        outline-width: 0.5rem;
+    }
+}

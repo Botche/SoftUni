@@ -1,0 +1,19 @@
+.buttons-wrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.btn {
+    text-transform: uppercase;
+    padding: 1rem;
+    animation: smaller-outline 1s;
+    animation-fill-mode: forwards;
+
+    outline: 0.5rem solid darkblue;
+
+    &:hover {
+        animation: bigger-outline 1s;
+        animation-fill-mode: forwards;
+    }
+}

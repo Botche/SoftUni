@@ -1,0 +1,46 @@
+@import url(../../node_modules/modern-normalize/modern-normalize.css);
+html {
+  font-size: 10px; }
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif; }
+
+@keyframes bigger-outline {
+  from {
+    outline-width: 0.5rem; }
+  to {
+    outline-width: 1.5rem; } }
+
+@keyframes smaller-outline {
+  from {
+    outline-width: 1.5rem; }
+  to {
+    outline-width: 0.5rem; } }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+.container {
+  height: 100vh; }
+  .container--flex {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.buttons-wrapper {
+  display: flex;
+  justify-content: space-around;
+  width: 30%; }
+
+.btn {
+  text-transform: uppercase;
+  padding: 1rem;
+  animation: smaller-outline 1s;
+  animation-fill-mode: forwards;
+  outline: 0.5rem solid darkblue; }
+  .btn:hover {
+    animation: bigger-outline 1s;
+    animation-fill-mode: forwards; }

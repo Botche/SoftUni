@@ -1,0 +1,109 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    
+    &__list {
+        list-style-type: none;
+        display: flex;
+        margin: 0;
+    }
+
+    &__item {
+        margin: 0 1.2rem;
+        padding: 2.9rem 1.2rem;
+
+        & a:hover {
+            color: $color-secondary-800;
+        }
+    }
+
+    &__search-container {
+        display: flex;
+        margin-left: 3rem;
+
+        &:hover {
+            cursor: url("../../images/Cursor.svg"), auto;
+        }
+    }
+
+    &__search-wrapper {
+        display: flex;
+        margin-right: 2rem;
+    }
+}
+
+.footer-nav {
+    flex-basis: 15%;
+    
+    position: relative;
+    margin: 6rem 0 4rem;
+    
+    &--animal-wrapper {
+        margin: 0;
+    }
+
+    &--big {
+        margin-right: 4rem;
+        flex-basis: 20%;
+    }
+
+    &__animal {
+        height: 37rem;
+        position: absolute;
+        bottom: 0%;
+        left: 0%;
+    }
+
+    &__title {
+        color: $color-white;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        margin: 0;
+
+    }
+
+    &__lists {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__list {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        &:first-of-type {
+            margin-right: 2.4rem;
+        }
+    
+    }
+
+    &__list-item {
+        margin: 1rem 0;
+    }
+
+    &__list-item a {
+        color: $color-grey-200;
+
+        &:hover {
+            color: $color-primary-300;
+        }
+    }
+
+    &__icon {
+        margin: 2rem 2rem 4rem 0;
+        font-size: 2.9rem;
+        color: $color-grey-200;
+
+        &:hover {
+            color: $color-primary-300;
+        }
+    }
+
+    &__copyright {
+        width: 100%;
+        word-wrap: break-word;
+        color: $color-grey-500;
+    }
+}

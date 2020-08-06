@@ -1,0 +1,708 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css";
+/*! modern-normalize v0.7.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+/*
+Document
+========
+*/
+/**
+Use a better box model (opinionated).
+*/
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+/**
+Use a more readable tab size (opinionated).
+*/
+:root {
+  -moz-tab-size: 4;
+  tab-size: 4; }
+
+/**
+1. Correct the line height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+*/
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+/*
+Sections
+========
+*/
+/**
+Remove the margin in all browsers.
+*/
+body {
+  margin: 0; }
+
+/**
+Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+*/
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
+
+/*
+Grouping content
+================
+*/
+/**
+Add the correct height in Firefox.
+*/
+hr {
+  height: 0; }
+
+/*
+Text-level semantics
+====================
+*/
+/**
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+abbr[title] {
+  text-decoration: underline dotted; }
+
+/**
+Add the correct font weight in Edge and Safari.
+*/
+b,
+strong {
+  font-weight: bolder; }
+
+/**
+1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+2. Correct the odd 'em' font sizing in all browsers.
+*/
+code,
+kbd,
+samp,
+pre {
+  font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
+
+/**
+Add the correct font size in all browsers.
+*/
+small {
+  font-size: 80%; }
+
+/**
+Prevent 'sub' and 'sup' elements from affecting the line height in all browsers.
+*/
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub {
+  bottom: -0.25em; }
+
+sup {
+  top: -0.5em; }
+
+/*
+Forms
+=====
+*/
+/**
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+*/
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */ }
+
+/**
+Remove the inheritance of text transform in Edge and Firefox.
+1. Remove the inheritance of text transform in Firefox.
+*/
+button,
+select {
+  /* 1 */
+  text-transform: none; }
+
+/**
+Correct the inability to style clickable types in iOS and Safari.
+*/
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button; }
+
+/**
+Remove the inner border and padding in Firefox.
+*/
+button::-moz-focus-inner,
+[type='button']::-moz-focus-inner,
+[type='reset']::-moz-focus-inner,
+[type='submit']::-moz-focus-inner {
+  border-style: none;
+  padding: 0; }
+
+/**
+Restore the focus styles unset by the previous rule.
+*/
+button:-moz-focusring,
+[type='button']:-moz-focusring,
+[type='reset']:-moz-focusring,
+[type='submit']:-moz-focusring {
+  outline: 1px dotted ButtonText; }
+
+/**
+Remove the padding so developers are not caught out when they zero out 'fieldset' elements in all browsers.
+*/
+legend {
+  padding: 0; }
+
+/**
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+progress {
+  vertical-align: baseline; }
+
+/**
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+[type='number']::-webkit-inner-spin-button,
+[type='number']::-webkit-outer-spin-button {
+  height: auto; }
+
+/**
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+[type='search'] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */ }
+
+/**
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+[type='search']::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/**
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to 'inherit' in Safari.
+*/
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  /* 1 */
+  font: inherit;
+  /* 2 */ }
+
+/*
+Interactive
+===========
+*/
+/*
+Add the correct display in Chrome and Safari.
+*/
+summary {
+  display: list-item; }
+
+html {
+  font-size: 10px; }
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-style: normal; }
+
+h1 {
+  font-size: 3.6rem;
+  line-height: 4rem; }
+
+h2 {
+  font-size: 3rem;
+  line-height: 4rem; }
+
+h3 {
+  font-size: 2.4rem;
+  line-height: 4rem; }
+
+h4 {
+  font-size: 1.8rem;
+  line-height: 2rem; }
+
+h5 {
+  font-size: 1.4rem;
+  line-height: 2rem; }
+
+h6 {
+  font-size: 1.2rem;
+  line-height: 2rem; }
+
+input {
+  background-color: #F8F8F8;
+  border-radius: 0.4rem;
+  border: 1px solid #FF9100;
+  padding: 1.2rem;
+  position: relative; }
+  input:hover {
+    pointer-events: none;
+    filter: blur(); }
+  input[type=checkbox] {
+    -webkit-appearance: none;
+    background-color: #FFFFFF;
+    border: 0.1rem solid #FFFFFF;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+    position: relative; }
+    input[type=checkbox]:checked {
+      border: 0.1rem solid #41BEAD;
+      background-color: #41BEAD; }
+    input[type=checkbox]:checked:after {
+      width: 100%;
+      content: '\2714';
+      font-size: 1.4rem;
+      position: absolute;
+      top: -10%;
+      left: 0%;
+      color: #FFFFFF; }
+  input::placeholder {
+    color: #919191; }
+
+a {
+  text-decoration: none;
+  color: #000000; }
+
+a:hover {
+  cursor: url("../../images/Cursor.svg"), auto; }
+
+img {
+  display: block;
+  width: 100%;
+  height: 100%; }
+
+.container {
+  width: 90%;
+  height: 100%;
+  margin: 0 auto; }
+  .container--flex {
+    display: flex; }
+
+.btn {
+  border-radius: 10rem;
+  border: none;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2), 0px 4px 5px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14); }
+  .btn--primary {
+    background-color: #FF9100;
+    color: #FFFFFF;
+    text-transform: uppercase; }
+  .btn--small {
+    padding: 1rem 2.2rem;
+    font-size: 1.3rem;
+    line-height: 1.6rem; }
+  .btn--medium {
+    padding: 1.4rem 3.2rem;
+    font-size: 1.4rem;
+    line-height: 1.6rem; }
+  .btn--large {
+    padding: 1.4rem 3.2rem;
+    font-size: 1.4rem;
+    line-height: 2rem; }
+  .btn:hover {
+    cursor: url("../../images/Cursor.svg"), auto; }
+
+.cards-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 45rem; }
+
+.card {
+  flex-basis: 30%;
+  height: 36rem;
+  border-radius: 1.2rem;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+  display: flex;
+  flex-flow: row wrap; }
+  .card:hover {
+    background-color: #F8F8F8; }
+  .card__header {
+    flex-basis: 100%;
+    border-radius: 1.2rem 1.2rem 0 0;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 16rem;
+    position: relative; }
+    .card__header--blue {
+      background-color: #44A9F8; }
+    .card__header--green {
+      background-color: #41BEAD; }
+  .card__badge {
+    position: absolute;
+    top: 3%;
+    left: 3%; }
+  .card__title {
+    margin-bottom: 0;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 2.4rem;
+    line-height: 3rem; }
+  .card__body {
+    flex-basis: 90%;
+    height: 150px;
+    margin: 0 auto; }
+  .card__information-list {
+    width: 75%;
+    min-height: 5.5rem;
+    margin: 1.6rem auto;
+    padding: 0;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    list-style-type: none; }
+  .card__list-item a, .card__list-item {
+    display: flex; }
+  .card__icon {
+    width: 1.8rem;
+    margin-right: 1rem; }
+  .card__hr {
+    border: 0.1rem solid #F1F1F1; }
+  .card__price {
+    color: #FC4C50;
+    font-weight: bold;
+    font-size: 2.4rem;
+    line-height: 3rem; }
+  .card__pricing {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+
+.section-filter {
+  background-color: #F8F8F8;
+  height: 9.2rem; }
+  .section-filter__title {
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.4rem;
+    flex-basis: 20%; }
+
+.filters-wraper {
+  flex-basis: 80%;
+  display: flex;
+  justify-content: space-between; }
+
+.filter {
+  display: flex;
+  align-items: center; }
+  .filter__icon {
+    align-self: center;
+    margin-right: 1.6rem; }
+  .filter__read-more-icon {
+    margin-left: 1rem;
+    position: relative; }
+    .filter__read-more-icon:hover .information {
+      display: block; }
+  .filter__drop-down {
+    padding: 1rem 2rem;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.12), 0px 0px 2px rgba(0, 0, 0, 0.14);
+    border-radius: 0 0 0.4rem 0.4rem;
+    border: 1px solid #FF9100;
+    width: 100%;
+    background-color: #F1F1F1;
+    display: block;
+    z-index: 2;
+    position: absolute; }
+    .filter__drop-down__input {
+      margin-bottom: 1rem;
+      display: inline-block;
+      vertical-align: baseline; }
+      .filter__drop-down__input input {
+        margin-right: 1rem; }
+      .filter__drop-down__input--right input {
+        margin-left: 3rem; }
+  .filter__input-wrapper {
+    position: relative; }
+    .filter__input-wrapper:hover .filter__drop-down {
+      display: block; }
+    .filter__input-wrapper:hover.filter__input-wrapper--drop::after {
+      transform: rotate(180deg);
+      top: 30%; }
+  .filter__input-wrapper::after {
+    content: url("../../../images/Arrow-down.svg");
+    position: absolute;
+    right: 10%;
+    top: 50%;
+    transform: translateY(-50%); }
+
+.footer {
+  background-color: #565656;
+  position: relative; }
+  .footer__wrapper {
+    justify-content: space-between; }
+  .footer::before {
+    content: "";
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 1.2rem;
+    background-color: #919191; }
+
+.header--shadow {
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2); }
+
+.header__logo-wrapper {
+  display: flex;
+  align-items: center;
+  margin-right: auto; }
+
+.header__menu-icon {
+  margin-right: 1.5rem; }
+
+.section-educations {
+  background-color: #FF9100;
+  color: #FFFFFF;
+  text-align: center;
+  height: 25.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .section-educations__wrapper {
+    width: 60%;
+    margin: 0 auto; }
+  .section-educations__title {
+    font-weight: 600;
+    font-size: 3.6rem;
+    line-height: 4.4rem;
+    margin: 0 0 2.4rem; }
+  .section-educations__content {
+    line-height: 2rem; }
+
+.navigation {
+  display: flex;
+  align-items: center; }
+  .navigation__list {
+    list-style-type: none;
+    display: flex;
+    margin: 0; }
+  .navigation__item {
+    margin: 0 1.2rem;
+    padding: 2.9rem 1.2rem; }
+    .navigation__item a:hover {
+      color: #FF9100; }
+  .navigation__search-container {
+    display: flex;
+    margin-left: 3rem; }
+    .navigation__search-container:hover {
+      cursor: url("../../images/Cursor.svg"), auto; }
+  .navigation__search-wrapper {
+    display: flex;
+    margin-right: 2rem; }
+
+.footer-nav {
+  flex-basis: 15%;
+  position: relative;
+  margin: 6rem 0 4rem; }
+  .footer-nav--animal-wrapper {
+    margin: 0; }
+  .footer-nav--big {
+    margin-right: 4rem;
+    flex-basis: 20%; }
+  .footer-nav__animal {
+    height: 37rem;
+    position: absolute;
+    bottom: 0%;
+    left: 0%; }
+  .footer-nav__title {
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+    margin: 0; }
+  .footer-nav__lists {
+    display: flex;
+    justify-content: space-between; }
+  .footer-nav__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; }
+    .footer-nav__list:first-of-type {
+      margin-right: 2.4rem; }
+  .footer-nav__list-item {
+    margin: 1rem 0; }
+  .footer-nav__list-item a {
+    color: #E6E6E6; }
+    .footer-nav__list-item a:hover {
+      color: #41BEAD; }
+  .footer-nav__icon {
+    margin: 2rem 2rem 4rem 0;
+    font-size: 2.9rem;
+    color: #E6E6E6; }
+    .footer-nav__icon:hover {
+      color: #41BEAD; }
+  .footer-nav__copyright {
+    width: 100%;
+    word-wrap: break-word;
+    color: #919191; }
+
+.programs {
+  text-align: center;
+  margin: 10rem 0; }
+  .programs__information-wrapper {
+    width: 70%;
+    margin: 0 auto; }
+  .programs__title {
+    color: #41BEAD; }
+  .programs__description {
+    color: #565656;
+    margin-bottom: 6.4rem; }
+  .programs__wrapper {
+    display: flex;
+    justify-content: space-between; }
+
+.program {
+  flex-basis: 49%;
+  padding: 3rem;
+  border-radius: 1.2rem;
+  border: 0.4rem solid; }
+  .program--blue {
+    background-color: #E3F3FD;
+    border-color: #44A9F8; }
+  .program--green {
+    background-color: #DFF4F1;
+    border-color: #00AF9B; }
+  .program__header {
+    display: flex;
+    justify-content: center; }
+  .program__title {
+    margin-top: 0;
+    font-size: 2.4rem;
+    line-height: 3rem; }
+    .program__title--blue {
+      color: #44A9F8; }
+    .program__title--green {
+      color: #00AF9B; }
+  .program__icon {
+    width: 4.6rem;
+    margin-right: 2.4rem; }
+    .program__icon--hardware {
+      width: 3.2rem; }
+  .program__description {
+    color: #565656;
+    margin-bottom: 3rem; }
+
+.information {
+  width: 40rem;
+  background-color: #FFFFFF;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.12), 0px 0px 2px rgba(0, 0, 0, 0.14);
+  border-radius: 0.4rem;
+  position: absolute;
+  z-index: 3;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -114%); }
+  .information__block {
+    padding: 1rem 0;
+    display: flex;
+    justify-content: stretch; }
+  .information__line {
+    background-color: #E6E6E6;
+    height: 0.1rem;
+    border: none; }
+  .information__description {
+    color: #919191;
+    margin-left: 1rem; }
+  .information__badge {
+    font-size: 1rem; }
+  .information__badge-wrapper {
+    min-width: max-content; }
+  .information::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 4.7rem;
+    height: 1rem;
+    background-color: #FFFFFF;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%); }
+
+.badge {
+  color: #FFFFFF;
+  padding: 0.4rem 0.8rem;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2), 0px 2px 2px rgba(0, 0, 0, 0.12), 0px 0px 2px rgba(0, 0, 0, 0.14);
+  border-radius: 0.4rem; }
+  .badge--grey {
+    background-color: #676781; }
+  .badge--purple {
+    background-color: #9A5DC6; }
+  .badge--orange {
+    background-color: #FF7100; }
+
+.arrow {
+  width: 5rem;
+  height: 5rem;
+  clip-path: polygon(50% 60%, 0% 100%, 100% 100%);
+  background-color: #FFFFFF; }
+
+.arrow-wrapper {
+  filter: drop-shadow(0 -0.1rem 0.1rem rgba(0, 0, 0, 0.3));
+  position: absolute;
+  left: 37.5%;
+  bottom: -9.6%;
+  transform: rotate(180deg) translate(-50%, -50%); }
+
+.result {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #E3F3FD;
+  border: 0.1rem solid #44A9F8;
+  border-radius: 1rem; }
+  .result__others-wrapper {
+    margin-top: 1rem; }
+  .result__others-courses {
+    color: #919191;
+    margin-right: 1rem; }
+  .result__close-icon {
+    color: #565656; }
+
+.centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.hidden {
+  display: none; }

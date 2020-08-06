@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.container__heading {
+    margin: 3rem 0 2rem;
+    color: #234465;
+}
+
+.text--white {
+    color: white;
+}

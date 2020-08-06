@@ -1,0 +1,29 @@
+@import url(../../node_modules/modern-normalize/modern-normalize.css);
+@keyframes circle-to-square {
+  from { }
+  50% {
+    background-color: #FF9100;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 0; }
+  to {
+    background-color: #FF0000;
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem; } }
+
+.container {
+  height: 100vh; }
+  .container--flex {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.animated-to-square {
+  animation: circle-to-square ease 3s infinite; }
+
+.circle {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  background-color: #FF0000; }

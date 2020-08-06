@@ -1,0 +1,22 @@
+.result {
+    margin-top: 2rem;
+    padding: 1rem;
+
+    background-color: $color-blue-50;
+
+    border: 0.1rem solid $color-blue-400;
+    border-radius: 1rem;
+
+    &__others-wrapper {
+        margin-top: 1rem;
+    } 
+
+    &__others-courses {
+        color: $color-grey-500;
+        margin-right: 1rem;
+    }
+
+    &__close-icon {
+        color: $color-grey-700;
+    }
+}

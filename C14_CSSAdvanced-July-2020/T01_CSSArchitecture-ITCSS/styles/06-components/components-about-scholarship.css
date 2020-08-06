@@ -1,0 +1,23 @@
+.c-about-scholarship {
+    background-color: #42abf8;
+    color: #FFFFFF;
+    position: relative;
+    padding: 3rem 4rem;
+    border-radius: 0.8rem;
+    min-height: 24rem;
+    margin-bottom: 10rem;
+}
+
+.c-about-scholarship__heading {
+    margin: 0;
+}
+
+.c-about-scholarship__media {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.c-about-scholarship__image {
+    border-radius: 0.8rem;
+}

@@ -1,0 +1,42 @@
+%gradients {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.gradient-box {
+    position: relative;
+    width: 30rem;
+    height: 20rem;
+
+    &:hover {
+
+        &::before {
+            animation: disapper 1s ease;
+            animation-fill-mode: forwards;
+        }
+    
+        &::after {
+            animation: appear 1s ease;
+            animation-fill-mode: forwards;
+        }
+    } 
+
+    &::before {
+        @extend %gradients;
+
+        background: linear-gradient(#728594 ,#E7ECED);
+
+        animation: appear 1s ease;
+        animation-fill-mode: forwards;
+    }
+
+    &::after {
+        @extend %gradients;
+
+        opacity: 0;
+        animation: disappear 1s ease;
+        background: linear-gradient(#C98532 ,#FCC988);
+    }
+}

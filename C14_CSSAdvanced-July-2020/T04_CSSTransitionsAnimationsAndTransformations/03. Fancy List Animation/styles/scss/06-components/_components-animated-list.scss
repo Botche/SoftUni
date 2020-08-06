@@ -1,0 +1,25 @@
+.animated-show {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    @for $i from 1 through 7 {
+        & .list-item:nth-child(#{$i}) {
+            animation-delay: #{0.1 * $i}s;
+        }   
+    }
+
+    .list-item {
+        transform: translate(-3rem);
+        opacity: 0;
+        animation: slides-in 1s ease-out;
+        animation-fill-mode: forwards;
+
+        &__icon {
+            margin-right: 1rem;
+            width: 2rem;
+        }
+    }
+}

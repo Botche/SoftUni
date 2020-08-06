@@ -1,0 +1,45 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css";
+@import url(../../node_modules/modern-normalize/modern-normalize.css);
+@keyframes appear {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 100; } }
+
+@keyframes disappear {
+  from {
+    opacity: 100; }
+  to {
+    opacity: 0; } }
+
+.container {
+  height: 100vh; }
+  .container--flex {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.gradient-box::before, .gradient-box::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute; }
+
+.gradient-box {
+  position: relative;
+  width: 30rem;
+  height: 20rem; }
+  .gradient-box:hover::before {
+    animation: disapper 1s ease;
+    animation-fill-mode: forwards; }
+  .gradient-box:hover::after {
+    animation: appear 1s ease;
+    animation-fill-mode: forwards; }
+  .gradient-box::before {
+    background: linear-gradient(#728594, #E7ECED);
+    animation: appear 1s ease;
+    animation-fill-mode: forwards; }
+  .gradient-box::after {
+    opacity: 0;
+    animation: disappear 1s ease;
+    background: linear-gradient(#C98532, #FCC988); }

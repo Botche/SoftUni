@@ -1,0 +1,26 @@
+.box {
+    width: 10rem;
+    height: 10rem;
+    text-align: center;
+    border-radius: 1rem;
+
+    &--red {
+        background-color: $color-red-900;
+        color: $color-white;
+    }
+
+    &--animated-blue {
+        
+        &:hover {
+            background-color: $color-blue-900;
+            color: $color-yellow-900;
+            width: 5rem;
+            height: 5rem;
+            font-size: 0.8rem;
+            border-radius: 0.8rem;
+            
+            transform: translate(5rem, -2rem);
+            transition: all 1s ease;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.palette__grey--50 {
+    background-color: #F8F8F8;
+}
+
+.palette__grey--100 {
+    background-color: #F1F1F1;
+}
+
+.palette__grey--200 {
+    background-color: #E6E6E6;
+}
+
+.palette__grey--300 {
+    background-color: #D6D6D6;
+}
+
+.palette__grey--400 {
+    background-color: #B2B2B2;
+}
+
+.palette__grey--500 {
+    background-color: #919191;
+}
+
+.palette__grey--600 {
+    background-color: #696969;
+}
+
+.palette__grey--700 {
+    background-color: #565656;
+}
+
+.palette__grey--800 {
+    background-color: #383838;
+}
+
+.palette__grey--900 {
+    background-color: #181818;
+}

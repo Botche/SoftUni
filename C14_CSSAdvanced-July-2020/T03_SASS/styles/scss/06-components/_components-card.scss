@@ -1,0 +1,98 @@
+.cards-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 45rem;
+}
+
+.card {
+    flex-basis: 30%;
+    height: 36rem;
+    border-radius: 1.2rem;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);;
+    
+    display: flex;
+    flex-flow: row wrap;
+
+    &:hover {
+        background-color: $color-grey-50;
+    }
+
+    &__header {
+        flex-basis: 100%;
+        border-radius: 1.2rem 1.2rem 0 0;   
+        display: flex;
+        align-items: center;
+        text-align: center;
+        min-height: 16rem;
+        position: relative;
+
+        &--blue {
+            background-color: $color-blue-400;
+        }
+
+        &--green {
+            background-color: $color-primary-300;
+        }
+    }
+
+    &__badge {
+        position: absolute;
+        top: 3%;
+        left: 3%;
+    }
+
+    &__title {
+        margin-bottom: 0;
+        color: $color-white;
+        font-weight: bold;
+        font-size: 2.4rem;
+        line-height: 3rem;
+    }
+
+    &__body {
+        flex-basis: 90%;
+        height: 150px;
+        margin: 0 auto;
+    }
+
+    &__information-list {
+        width: 75%;
+        min-height: 5.5rem;
+        margin: 1.6rem auto;
+        padding: 0;
+        display: flex;
+        align-content: space-between;
+        justify-content: space-around;
+
+        flex-flow: row wrap;
+        list-style-type: none;
+    }
+
+    &__list-item a,
+    &__list-item {
+        display: flex;
+    }
+
+    &__icon {
+        width: 1.8rem;
+        margin-right: 1rem;
+    }
+
+    &__hr {
+        border: 0.1rem solid $color-grey-100;
+    }
+
+    &__price {
+        color: $color-red-500;
+        font-weight: bold;
+        font-size: 2.4rem;
+        line-height: 3rem;
+    }
+
+    &__pricing {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
