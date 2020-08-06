@@ -1,0 +1,58 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    margin: 0;
+}
+
+.viewport {
+    position: relative;
+    height: 30rem;
+}
+
+.card {
+    width: 40%;
+    height: 70%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.lake {
+    background: linear-gradient(to right,#195C9C, #42CAA1);
+}
+
+.mountain {
+    height: 60rem;
+    background: linear-gradient(to right, #A83378, #D18014);
+}
+
+.card div {
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 5px 5px 20px 5px rgba(0,0,0,0.75);
+}
+
+.card div img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    z-index: -1;
+}
+
+.card i {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    bottom: .8rem;
+    right: .8rem;
+}
+
+.card .chain {
+    transform: rotate(90deg);
+}

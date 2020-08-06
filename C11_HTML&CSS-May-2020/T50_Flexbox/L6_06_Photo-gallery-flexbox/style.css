@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+ul,
+li {
+    display: flex;
+}
+
+.gallery-list {
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery-list img {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    border: 5px solid black
+}
+
+.gallery-list li {
+    margin: 20px;
+}

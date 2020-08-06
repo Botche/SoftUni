@@ -1,0 +1,92 @@
+* {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Georgia, serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(238, 238, 238) ;
+}
+
+.site-header, 
+.site-horizontal-line,
+article {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.site-title {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.site-horizontal-line {
+    border: none;
+    background-color: #333;
+    height: 3px;
+}
+
+h1, h2 {
+    font-size: 1.5rem;
+}
+
+.site-content-second-article-div {
+    height: 14rem;
+}
+
+.site-content-second-article-blockquote {
+    border-left: 3px solid rgb(197, 197, 197);
+    color: rgb(99, 99, 99);
+    padding-left: 2rem;
+    height: inherit;
+    width: 50%;
+    float: right;
+    margin: 0;
+}
+
+.site-content-second-article-blockquote-author {
+    float: right;
+}
+
+.site-content-second-article-half-size {
+    height: inherit;
+    padding-right: 1rem;
+    margin: 0;
+    width: 50%;
+    float: left;
+}
+
+.site-content-second-article-blockquote::after,
+.site-content-second-article-half-size::after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.site-content-first-article-media {
+    width: 12rem;
+    float: right;
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.site-content-third-article-media {
+    width: 12rem;
+    float: left;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.site-content-first-article-media img,
+.site-content-third-article-media img {
+    display: block;
+    border: 3px solid black;
+    width: 100%;
+    background-color: rgb(255, 255, 255) ;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.25);
+    padding: 0.5rem;
+}

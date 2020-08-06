@@ -1,0 +1,20 @@
+.site-header {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+}
+
+.site-header h1 {
+    text-transform: uppercase;
+    flex-grow: 1;
+}
+
+.site-header-navigation-list {
+    display: flex;
+    list-style: none;
+}
+
+.site-header-navigation-list a{
+    text-decoration: none;
+    margin: 0 10px;
+    color: rgb(0, 153, 0);
+}

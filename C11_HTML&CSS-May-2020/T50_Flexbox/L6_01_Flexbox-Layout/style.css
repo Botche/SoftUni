@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    padding: 4em;
+    flex-wrap: wrap;
+    background-color: rgb(235, 235, 235);
+}
+
+.site-header,
+.site-content,
+.site-aside,
+.site-footer {
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 1em;
+    margin: 1em;
+    background-color: white;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em rgb(153, 153, 153); 
+    text-transform: uppercase;
+}
+
+.site-header, 
+.site-footer {
+    flex-basis: 100%;
+}
+
+.site-header {
+    padding-bottom: 5em;
+}
+
+.site-content,
+.site-aside {
+    padding-bottom: 12em;
+}
+
+.site-content {
+    flex-basis: 60%;
+}
+
+.site-aside {
+    flex-basis: 34%;
+}
+
+.site-footer {
+    padding-bottom: 3em;
+}

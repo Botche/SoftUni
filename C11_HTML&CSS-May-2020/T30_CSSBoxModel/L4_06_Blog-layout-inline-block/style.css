@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(51, 51, 51);
+    background-color: rgb(238, 238, 238);
+}
+
+.main-article {
+    width: 60%;
+    line-height: 1.5;
+    margin: 0 20px;
+    display: inline-block;
+}
+
+.main-article-content-media {
+    width: 600px;
+}
+
+.main-article-content-media-content {
+    width: 100%;
+}
+
+.aside {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}

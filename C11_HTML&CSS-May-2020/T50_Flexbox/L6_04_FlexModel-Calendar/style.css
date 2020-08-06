@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.container,
+.container section {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.container {
+    max-width: 65vw;
+}
+
+.container span {
+    border: 1px solid black;
+}
+
+.week {
+    flex-basis: 79%;
+}
+
+.notes {
+    flex-basis: 20%;
+    flex-direction: column;
+}
+
+.week span {
+    padding: 20px 20px 50px;
+}
+
+.workweek-days {
+    flex-basis: 20%;
+}
+
+.weekend-days {
+    flex-basis: 50%;
+}
+
+.notes span {
+    flex-basis: 181px;
+    padding: 5px 50px 100px;
+}
+
+.week-header {
+    flex-basis: 100%;
+}

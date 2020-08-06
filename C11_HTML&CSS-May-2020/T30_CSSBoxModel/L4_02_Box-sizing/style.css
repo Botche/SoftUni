@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-section {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border: 3px dotted limegreen;
+    text-align: center;
+}
+
+.main-section-content {
+    width: 100%;
+    border: 5px solid blue;
+    padding: 20px;
+}

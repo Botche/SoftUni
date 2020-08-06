@@ -1,0 +1,46 @@
+@import 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css';
+
+html {
+    --green-color: rgb(0, 102, 0);
+    --white-color: rgb(251, 251, 251);
+    --black-color: rgb(0, 0, 0);
+    --grey-color: rgb(51, 51, 51);
+}
+
+.button {
+    border: 1px solid var(--black-color);
+    border-radius: 20px;
+
+    background-color: Transparent;
+    color: var(--grey-color);
+
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-decoration: none;
+
+    padding: 5px 10px;
+
+    cursor: pointer;
+    outline: none;
+}
+
+.button.fill.hover{
+    color: var(--white-color);
+}
+
+.fill {
+    color: var(--white-color);
+    background-color: var(--black-color);;
+}
+
+.hover:hover {
+    border: 1px solid var(--green-color);
+    color: var(--green-color);
+}
+
+.fill.hover:hover {
+    background-color: var(--green-color);
+    border: 1px solid var(--green-color);
+    color: var(--white-color);
+}

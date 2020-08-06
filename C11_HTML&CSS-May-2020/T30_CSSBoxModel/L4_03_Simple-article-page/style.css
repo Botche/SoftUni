@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(51, 51, 51);
+    background-color: rgb(238, 238, 238);
+}
+
+.main-article {
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.main-article-content-media {
+    width: 600px;
+}
+
+.main-article-content-media-content {
+    width: 100%;
+}

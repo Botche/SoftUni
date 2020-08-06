@@ -1,0 +1,19 @@
+@import 'https://pro.fontawesome.com/releases/v5.10.0/css/all.css';
+
+p {
+    margin-bottom: 40px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.green-link {
+    background-color: green;
+}
+
+.orange-link {
+    background-color: orange;
+}

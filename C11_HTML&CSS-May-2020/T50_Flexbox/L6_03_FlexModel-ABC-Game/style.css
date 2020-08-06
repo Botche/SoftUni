@@ -1,0 +1,45 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 15vw;
+    height: 35rem;
+}
+
+.container span {
+    padding: 1rem 2rem;
+    border: 1px solid black;
+}
+
+.html {
+    order: 10;
+}
+
+.container span:nth-child(11) {
+    order: -2;
+}
+
+.container span:nth-child(2) {
+    order: -1;
+}
+
+.container span:nth-child(12) {
+    order: -1;
+}
+
+.container span:nth-child(5) {
+    order: 4;
+}
+
+.container span:nth-child(6) {
+    order: 3;
+}
+
+.container span:nth-child(9) {
+    order: 2;
+}

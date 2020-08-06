@@ -1,0 +1,15 @@
+.arabic-list{
+    list-style-type: upper-roman;
+}
+
+.letter-list{
+    list-style-type: lower-alpha;
+}
+
+.empty-circle-list{
+    list-style-type: circle;
+}
+
+.disc-list{
+    list-style-type: disc;
+}

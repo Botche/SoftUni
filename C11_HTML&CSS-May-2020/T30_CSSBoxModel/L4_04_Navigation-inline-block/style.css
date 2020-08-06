@@ -1,0 +1,33 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    margin: 20px 40px;
+    line-height: 1.5;
+}
+
+.navigation-content-list li,
+.navigation-heading,
+.navigation-content {
+    display: inline-block;
+}
+
+.navigation-heading {
+    font-size: 52px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.navigation-content-list li a {
+    text-decoration: none;
+    color: limegreen;
+    font-size: 18px;
+    margin: 20px;
+}
+
+.horizontal-line {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
